@@ -1,0 +1,209 @@
+{
+  "artifact_hashes": {
+    "data/cache/hotpot_dev_distractor_v1.json": "d3ad9b87a18ba9a3ce5054f8633310e441ae9e13ada08d66e47acf8d0ae0f7f2",
+    "outputs/main_manifest.jsonl": "fd967a986394bfed4fa8caf211e28790b7a90c47bad9e48da6bea15b957abc89",
+    "outputs/pilot_manifest.jsonl": "1131d10219e9684e2d55283dafc6125a0f436de0fa075d1a4cae169b8222794b",
+    "outputs/study2_rag/corpus_provenance.json": "d7642b457f664f2f1d70482974fb080296a3fab4c538fffab74910bd2cb70736",
+    "outputs/study2_rag/main_schedule.jsonl": "7652826ec627180cd198a8ba144d09e71f0cfde4fac99037bb18091016f9d967",
+    "outputs/study2_rag/offline_preparation.json": "a6cc2a1e409fbf8f84ac37b753bed47da6b214902c6f3736ef3439cf58931e0e",
+    "outputs/study2_rag/pilot_prompt_manifest.jsonl": "d8fb56252c15ebab7942be9f0ba93e3ef96c801a5e02ec373e70e9c96d8d03a0",
+    "outputs/study2_rag/pilot_retrieval_manifest.jsonl": "70387fccfb1b0a87f779d14f0d9d6cae71f2f6e781652fdec4572317a78e82d3",
+    "outputs/study2_rag/pilot_schedule.jsonl": "54e3bc277f3539e358f8aa3b495c6f1ec8b6feb4f18dfe59de1816361cbde8f7",
+    "outputs/study2_rag/prompt_manifest.jsonl": "803d4dd2369651014abcbb5a51362b1292c8b5d2468ee4453e80892dbc6366fa",
+    "outputs/study2_rag/retrieval_manifest.jsonl": "83bc3af99bbf7061aabb7a96685d6a8bc3e1d571f35bee4252351bf946daaca3",
+    "outputs/study2_rag/retrieval_results.csv": "919b51ec5928626c7a89b17b2ae4bdf92dc0a64c7840f15f2b8507de43145c0e",
+    "outputs/study2_rag/retrieval_summary.json": "abf2c749ae14f3d1fec27cbc9812414b2649c5d2a09d7b99493a7579f7d70fee"
+  },
+  "compatible_pilot_freeze_sha256": [
+    "7964ee4f53c248e38ab56d370d6cd624e5204c8fc42d61b61799f44db955b384"
+  ],
+  "configuration": {
+    "api_base": "https://generativelanguage.googleapis.com/v1beta",
+    "bm25": {
+      "b": 0.75,
+      "document": "title once plus page text",
+      "k1": 1.2,
+      "query": "question text only",
+      "tie_break": "passage_id ascending",
+      "tokenizer": "Unicode NFKC casefold; regex [^\\W_]+; no stopword removal or stemming"
+    },
+    "corpus_kind": "shared_hotpotqa_dev_distractor_page_pool",
+    "corpus_source": "data/cache/hotpot_dev_distractor_v1.json",
+    "cost": {
+      "input_usd_per_million": 0.3,
+      "main_emergency_guard_usd": 2.0,
+      "output_usd_per_million": 2.5,
+      "per_request_guard_usd": 0.05
+    },
+    "default_concurrency": 4,
+    "default_rpm": 30,
+    "default_tpm": 60000,
+    "descriptive_cutoffs": [
+      1,
+      2,
+      5,
+      10,
+      20
+    ],
+    "documented_input_token_limit": 1048576,
+    "generation_config": {
+      "candidateCount": 1,
+      "maxOutputTokens": 2048,
+      "responseMimeType": "text/plain",
+      "temperature": 0.0,
+      "thinkingConfig": {
+        "includeThoughts": false,
+        "thinkingLevel": "MINIMAL"
+      }
+    },
+    "model": "gemini-3.5-flash-lite",
+    "primary_top_k": 10,
+    "prompt_utf8_byte_limit": 100000,
+    "retrieval_unit": "one merged page-introduction unit per normalized Wikipedia title",
+    "retry_policy": {
+      "base_delay_seconds": 2.0,
+      "max_attempts": 3,
+      "max_delay_seconds": 60.0,
+      "request_timeout_seconds": 90,
+      "retry_http_statuses": [
+        408,
+        429,
+        500,
+        502,
+        503,
+        504
+      ],
+      "retry_transport": [
+        "ConnectError",
+        "ConnectTimeout",
+        "ReadTimeout",
+        "WriteTimeout",
+        "ReadError",
+        "WriteError",
+        "RemoteProtocolError",
+        "PoolTimeout"
+      ]
+    },
+    "schema_version": 1,
+    "seed": 20260929,
+    "study": "study2_rag"
+  },
+  "corpus": {
+    "corpus_construction": "Pool every context page across all 7,405 dev records; normalize titles; merge exact text variants; one page unit per normalized title.",
+    "corpus_documents": 66576,
+    "dataset": "HotpotQA development distractor split",
+    "license": "CC BY-SA 4.0 (HotpotQA distribution)",
+    "limitation": "Shared development-derived page pool, not the official 2017 FullWiki corpus. Every dev question contributes its support pages and distractors, so open-domain recall may be optimistic.",
+    "logical_corpus_sha256": "d196298dad82198d0894a88f82f5342f3b68f58b0e583dde45d76574220f23f1",
+    "normalization_collisions": 5,
+    "normalized_title_units": 66576,
+    "raw_unique_titles": 66581,
+    "source_context_entries": 73700,
+    "source_path": "data/cache/hotpot_dev_distractor_v1.json",
+    "source_records": 7405,
+    "source_sha256": "d3ad9b87a18ba9a3ce5054f8633310e441ae9e13ada08d66e47acf8d0ae0f7f2",
+    "units_with_multiple_text_variants": 59
+  },
+  "freeze_sha256": "97155b9ccbdbe26de52d896c35c93b49ed8281c528afb08e615e4267050712cf",
+  "main_generation_authorized": false,
+  "pilot_freeze_compatibility_basis": "The completed pilot used identical scientific prompts, retrieval, model settings, and protocol. The successor freeze changes only MAIN artifact filename resolution and its regression test.",
+  "retrieval_summary": {
+    "ambiguous_normalized_title_matches": 0,
+    "categories": {
+      "complete": {
+        "count": 106,
+        "percent": 53.0
+      },
+      "failed": {
+        "count": 3,
+        "percent": 1.5
+      },
+      "partial": {
+        "count": 91,
+        "percent": 45.5
+      }
+    },
+    "n_corpus_documents": 66576,
+    "n_questions": 200,
+    "primary_top_k": 10,
+    "recall_by_cutoff": {
+      "1": {
+        "questions_with_both": 0,
+        "questions_with_both_percent": 0.0,
+        "support_document_recall": 0.42,
+        "support_documents_recalled": 168
+      },
+      "10": {
+        "questions_with_both": 106,
+        "questions_with_both_percent": 53.0,
+        "support_document_recall": 0.7575,
+        "support_documents_recalled": 303
+      },
+      "2": {
+        "questions_with_both": 48,
+        "questions_with_both_percent": 24.0,
+        "support_document_recall": 0.5675,
+        "support_documents_recalled": 227
+      },
+      "20": {
+        "questions_with_both": 129,
+        "questions_with_both_percent": 64.5,
+        "support_document_recall": 0.82,
+        "support_documents_recalled": 328
+      },
+      "5": {
+        "questions_with_both": 82,
+        "questions_with_both_percent": 41.0,
+        "support_document_recall": 0.6875,
+        "support_documents_recalled": 275
+      }
+    },
+    "support_matches_with_merged_text_variants": 2,
+    "support_rank_statistics": {
+      "maximum": 38542,
+      "mean": 417.455,
+      "median": 2.0,
+      "minimum": 1,
+      "p75": 10,
+      "p90": 92
+    }
+  },
+  "schema_version": 1,
+  "scientific_plan": {
+    "analysis": "Overall/category EM and F1; complete-retrieval failure count; paired descriptive comparisons with Study 1 00/11; predeclared rank bins top2, top5-not2, top10-not5.",
+    "categories": [
+      "complete",
+      "partial",
+      "failed"
+    ],
+    "invalid_output_handling": "Commit once without scientific retry; apply official EM/F1 to returned text (empty responses score zero); report response-integrity categories separately.",
+    "main_items": 200,
+    "main_scientific_requests": 200,
+    "no_answer_dependent_resampling": true,
+    "no_oracle_highlighting": true,
+    "pilot_items": 10,
+    "primary_question": "Among questions with both annotated support documents in top-10, what proportion fail official HotpotQA EM?",
+    "primary_top_k": 10
+  },
+  "source_hashes": {
+    "study2_rag/README.md": "5bea2a93b379813fa1f0d959bc3282ef6df17d545e9e85a9c355fc7791254b20",
+    "study2_rag/__init__.py": "fbe0f76f4ca03bb9292cc4661110f8535fca26b87817b819a164f1575509fafa",
+    "study2_rag/analysis.py": "33d858e3a777f1126c8cad3d8c2808727ed9a736744462d40c743a628bd5f702",
+    "study2_rag/bm25.py": "44402e15e798c2598ec4a91132a0c81006de77282808c4e401f571d3d6f065ed",
+    "study2_rag/cli.py": "82d1cd1aeb964a94c54d8cb9c402237f6b3428837329d02a21dbf246dfde5897",
+    "study2_rag/collector.py": "3429256830cc9760c7422368ff8a6dd384c2194637753afd102bfe3d40fa446e",
+    "study2_rag/common.py": "eaa643bfae5fcae00cdc32f9357d967025da2ad31df5e0d2988bf6fe883d891e",
+    "study2_rag/corpus.py": "ccd1fd581957f5fb51b326cd23a6225c2fcdd218a5ac687ad16adb0350cd1a15",
+    "study2_rag/freeze.py": "e5e742bf35b6c0bba10aec84512f31c4cd5f919d81dae34c97a42d17d2747bdd",
+    "study2_rag/prepare.py": "f4167ecffb57180098801d7b31e7b70d10ce326ebfe92918db794f83a01891df",
+    "study2_rag/prompts.py": "57b6f998ec5c5c4e901ca933ad0dbaa0454ca2eab7abb87e4e31613d133c2969",
+    "study2_rag/reconcile.py": "bf0fb3ce2e7307458943bf32a0bacc658108e849f957a9977d338ee07b4eb509",
+    "study2_rag/scoring.py": "b8fc78da92dbf4b1b451d81b16a331506a231c4b3afb4f91567bf529c9cf47a5",
+    "tests/test_study2_rag.py": "947aa013d797fcc143732f306e7ba01a7f109e9261ecf5f07a7de58d678fc827"
+  },
+  "specified_after_study1": true,
+  "status": "FROZEN_BEFORE_ANY_STUDY2_GENERATION",
+  "study": "study2_rag",
+  "study1_freeze_sha256": "f8a9c640918aa12274885f1bba092bedafcb87367eae439edd8b773cecb34885",
+  "study1_sealed_outputs_sha256": "9a7a0a753f1b3cfde942e1a4ed5707476aef0893c2db0f77e93e76b268fd25f4"
+}

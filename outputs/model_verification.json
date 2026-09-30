@@ -1,0 +1,26 @@
+{
+  "availability": "verified",
+  "checked_at": "2026-09-29T20:56:24.259781+00:00",
+  "config_sha256": "ac47790c6d467bde53713a28eb7282288fe86548606fae70827bc7deab5da8df",
+  "metadata": {
+    "description": "Gemini 3.5 Flash Lite",
+    "displayName": "Gemini 3.5 Flash Lite",
+    "inputTokenLimit": 1048576,
+    "maxTemperature": 2,
+    "name": "models/gemini-3.5-flash-lite",
+    "outputTokenLimit": 65536,
+    "supportedGenerationMethods": [
+      "generateContent",
+      "countTokens",
+      "createCachedContent",
+      "batchGenerateContent"
+    ],
+    "temperature": 1,
+    "thinking": true,
+    "topK": 64,
+    "topP": 0.95,
+    "version": "3.5-flash-lite-07-2026"
+  },
+  "parameter_support": "metadata and official REST documentation checked; configuration verified during the technical pilot",
+  "requested_model": "gemini-3.5-flash-lite"
+}

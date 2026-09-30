@@ -1,0 +1,16 @@
+{
+  "files": {
+    "FOLLOWUP_RESULTS.md": "d2acd5ec5c82123148bfd82beaa4f01d322e080674511745a584c897300196b5",
+    "analysis/paired_items.csv": "0fd5bc4fa6bdbdaab529ad9c0cd6d5cf3be0876e454e8609912474252976d9dc",
+    "analysis/paired_items.jsonl": "350cb070c1650a7353f2c4f899900ede721e3904f48c5eae0b04af6cc626c9b4",
+    "analysis/summary.json": "22c0e4aa86414403d3cf4eeff4f7abfa42a0bd8879e3de4cffe662a810461dde",
+    "frozen_protocol.json": "383ef0c0c4ba3a65a45c8e8386ddb9ccad0135b018ced58e46c1f89da92aaf99",
+    "main_manifest.jsonl": "d17a92aa32f37f32c735025ce4756e4317f35f2ca4ad32f9adaac7db8bbce043",
+    "main_reconciliation.json": "2c0ba649fa13249125aa5c38bf89536ca8e9b44eedfd872c3524aa11f2738f3d",
+    "pilot_manifest.jsonl": "7bd634bd1fea8dac31888c1062321118846fb13922dbc398e2fda789c983e264",
+    "pilot_reconciliation.json": "d0107b2ab695bf1a28c59912a9fba937b96ef0e4bf92910abbd6c7b59b91f32c"
+  },
+  "freeze_sha256": "875423e20e22942cb78630ce836d2aee6ab52c9b72edb2ed0fde80b5a12ba632",
+  "main_fingerprint": "ece937bcd1b2a9beed25aa30c653995f89c55dc2a568d47800258eef6643f1e3",
+  "status": "SEALED"
+}

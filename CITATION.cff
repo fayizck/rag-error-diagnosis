@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying term paper."
+title: "RAG Error Diagnosis"
+type: software
+authors:
+  - family-names: Rahman
+    given-names: Fayiz
+  - family-names: Bansal
+    given-names: Kritik
+repository-code: "https://github.com/fayizck/rag-error-diagnosis"
+url: "https://github.com/fayizck/rag-error-diagnosis"
+version: 1.0.0
+date-released: 2026-09-30
+license: MIT

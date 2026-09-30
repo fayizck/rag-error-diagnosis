@@ -1,0 +1,61 @@
+{
+  "ambiguous_normalized_title_matches": 0,
+  "categories": {
+    "complete": {
+      "count": 106,
+      "percent": 53.0
+    },
+    "failed": {
+      "count": 3,
+      "percent": 1.5
+    },
+    "partial": {
+      "count": 91,
+      "percent": 45.5
+    }
+  },
+  "n_corpus_documents": 66576,
+  "n_questions": 200,
+  "primary_top_k": 10,
+  "recall_by_cutoff": {
+    "1": {
+      "questions_with_both": 0,
+      "questions_with_both_percent": 0.0,
+      "support_document_recall": 0.42,
+      "support_documents_recalled": 168
+    },
+    "10": {
+      "questions_with_both": 106,
+      "questions_with_both_percent": 53.0,
+      "support_document_recall": 0.7575,
+      "support_documents_recalled": 303
+    },
+    "2": {
+      "questions_with_both": 48,
+      "questions_with_both_percent": 24.0,
+      "support_document_recall": 0.5675,
+      "support_documents_recalled": 227
+    },
+    "20": {
+      "questions_with_both": 129,
+      "questions_with_both_percent": 64.5,
+      "support_document_recall": 0.82,
+      "support_documents_recalled": 328
+    },
+    "5": {
+      "questions_with_both": 82,
+      "questions_with_both_percent": 41.0,
+      "support_document_recall": 0.6875,
+      "support_documents_recalled": 275
+    }
+  },
+  "support_matches_with_merged_text_variants": 2,
+  "support_rank_statistics": {
+    "maximum": 38542,
+    "mean": 417.455,
+    "median": 2.0,
+    "minimum": 1,
+    "p75": 10,
+    "p90": 92
+  }
+}

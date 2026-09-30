@@ -1,0 +1,871 @@
+{
+  "all_planned_accounted": true,
+  "attempts": 801,
+  "checked_at": "2026-09-29T21:32:31.506207+00:00",
+  "committed": 800,
+  "complete_valid_questions": 200,
+  "duplicate_attempt_events": 0,
+  "duplicate_commits": 0,
+  "duplicate_scientific_ids": 0,
+  "inflight_attempts": 0,
+  "integrity_errors": [],
+  "integrity_passed": true,
+  "latency_seconds": {
+    "max": 2.8105948340380564,
+    "mean": 0.6436920607230422,
+    "median": 0.6125630835012998
+  },
+  "logical_outputs_sha256": "9a7a0a753f1b3cfde942e1a4ed5707476aef0893c2db0f77e93e76b268fd25f4",
+  "missing_scientific_ids": [],
+  "per_condition": {
+    "00": {
+      "committed": 200,
+      "planned": 200,
+      "valid": 200
+    },
+    "01": {
+      "committed": 200,
+      "planned": 200,
+      "valid": 200
+    },
+    "10": {
+      "committed": 200,
+      "planned": 200,
+      "valid": 200
+    },
+    "11": {
+      "committed": 200,
+      "planned": 200,
+      "valid": 200
+    }
+  },
+  "per_item": {
+    "5a713f3c5542994082a3e6eb": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7264ed5542990c210a411a": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a72e4375542992359bc31bf": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a73354f5542991f9a20c687": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a73583455429901807dafcf": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a74a8fa55429929fddd8497": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a74be0b5542996c70cfadc8": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a74d7685542996c70cfae0a": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7502345542993748c89795": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a752fb75542993748c897df": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a75a4135542992d0ec05fcd": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a75e33855429976ec32bc74": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a75f0ea5542994ccc91866c": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7723ce55429966f1a36c9f": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7736bc554299373536021b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7747e15542994aec3b7266": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a77d5b855429949eeb29f77": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a79e1275542990198eaefe7": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7a47be5542994f819ef1b2": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7a5ec855429941d65f25e4": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7af4cd55429931da12c9a6": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7b1a4a55429927d897bf3b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7b3f4d5542992d025e67bb": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7b782455429927d897bfd7": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7c00a55542996dd594b87e": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7c6753554299683c1c62f9": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7cb94f554299683c1c6353": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7cb9985542990527d55514": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7cd8da55429909bec76845": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7cdd1c554299683c1c63a8": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7dbb295542990b8f503a4b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7e32905542991319bc943b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7f354b5542992e7d278c8c": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7f84225542994857a76756": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7fa2ad5542994857a76792": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a807f6a5542992bc0c4a737": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a808f96554299485f598655": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a80abd15542996402f6a5e0": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a80b322554299485f5986c8": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a81a4335542990a1d231e38": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a81b7205542990a1d231e79": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a81ea115542995ce29dcc78": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a81ee385542995ce29dcc88": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a81fa59554299676cceb1b0": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a82e25555429954d2e2ebbf": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8313a755429954d2e2ec06": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8325b35542990548d0b18f": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a839f985542996488c2e47d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a83eaae55429933447460b4": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a84524a554299123d8c2203": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a849cc95542997175ce1efa": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a84bc5b5542991dd0999dc3": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a84e61b5542997b5ce3ff86": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a84f5195542994c784dda9d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a85e5345542991dd0999ebb": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a86681c5542991e77181644": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a87ab905542996e4f3088c1": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a88a1bb5542997e5c09a64c": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a88cc8f55429938390d3fc5": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a890b895542995153361278": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a89f58f5542992e4fca84af": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8a09765542992d82986e67": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8a429955429930ff3c0d34": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8ac87d55429970aeb7031d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8b8f5b55429949d91db5e1": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8ba0855542995d1e6f1427": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8baf635542996e8ac889c6": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8bc03d5542996e8ac88a0b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8c5be0554299653c1aa04b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8d8e4f5542994ba4e3dca7": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8dce155542994ba4e3dd24": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8de7c65542995085b37353": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8dee2455429917b4a5bce1": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8dff3f5542995085b37370": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8e08ab5542995085b37393": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8e8d665542995085b3744e": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8f0a01554299458435d539": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8f608d5542992414482a94": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8fdd9c55429916514e73de": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a90605d5542995651fb514d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a90b1a15542990a984936ab": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab1dcab5542993be8fa985e": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab2a8b655429929539467ab": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab2f85b55429929539468dc": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab3dbd8554299233954ffd6": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab4355555429942dd415ee3": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab4774d5542991751b4d781": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab4ec2755429942dd415fa6": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab520dd5542996a3a96a02c": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab5cd0d554299488d4d9a30": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab5ed505542997d4ad1f255": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab624b855429953192ad26d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab69f9a554299710c8d1ef8": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab6c47e55429954757d3368": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab6e848554299710c8d1faa": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab7268b5542992aa3b8c7b1": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab73eaf5542992aa3b8c7ef": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab7d6ec5542995dae37e9b4": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab7e3c45542995dae37e9db": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab808b85542991d3222380d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab8723c55429934fafe6dbc": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab88c075542991b5579efbe": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab90a2055429916710eb0ea": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab913205542991b5579f0e0": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab95a63554299743d22eb06": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab960d6554299743d22eb21": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ab98608554299131ca42362": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abaeda95542992ccd8e7e5d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abaee845542996606241696": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abb207d5542992ccd8e7f1d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abc8d75554299700f9d7900": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abcd44655429959677d6af1": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abcd77755429965836004ce": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abcf2b4554299700f9d7937": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abcff225542993a06baf9ea": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abcffc2554299700f9d7951": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abd0296554299114383a1d1": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abd12bb55429933744ab703": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abd27ba5542993062266ba7": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abd83775542993062266cb7": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abdb4a755429965af743df0": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abdc18555429965af743e2b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abdcaea55429965af743e4e": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abdce1b5542993062266cfe": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abe87cb5542993f32c2a156": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5abf1e825542997ec76fd3cb": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac02880554299012d1db5c0": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac0805f5542992a796ded29": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac113e2554299294b21909a": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac19bf55542994ab5c67d97": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac23f9555429951e9e684db": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac273455542992f1f2b38d4": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac2768d5542990b17b153a8": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac299b155429967731025ad": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac2cb09554299657fa29066": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac2efd65542990b17b154c7": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac42a64554299076e296d7b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac4e593554299076e296e37": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ac50bca55429924173fb57f": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adc2e3d554299438c868d6b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adc3a7055429947ff173913": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adc861c5542994d58a2f62c": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adcc3ed5542994d58a2f6c4": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adccdab5542994d58a2f6db": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adcfba05542990d50227d83": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5add559e5542992ae4cec511": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5add57e55542992ae4cec516": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5add67705542992ae4cec54f": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5addfdf65542992200553bd2": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ade7feb5542992fa25da799": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ade99ad554299728e26c75d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adec4695542992fa25da83a": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adecc7755429975fa854f9d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adef5fb5542993a75d263be": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adf076f5542992d7e9f9277": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adf51e05542995534e8c78a": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adf5e285542992d7e9f9323": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5adfde09554299025d62a369": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae0036a55429942ec259bdf": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae0132d55429925eb1afc00": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae0345855429924de1b705f": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae07c6255429924de1b70d6": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae083e855429924de1b70fb": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae129115542990adbacf722": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae1465855429920d5234373": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae17f1e5542990adbacf7a6": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae1925a554299492dc91b48": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae1f2d4554299234fd04358": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae1fd995542997283cd2313": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae206c45542994d89d5b311": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae237ac554299492dc91be1": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae2c6bf554299492dc91c6c": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae2c8b05542992decbdcd9d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae2e0fd55429928c4239524": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae358c05542990afbd1e10f": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae35b6b5542990afbd1e116": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae3606b5542991a06ce99a8": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae39e9c5542990afbd1e195": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae3a1aa5542994393b9e72d": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae3fd595542995dadf24292": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae414d855429970de88d8ec": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae4890a5542995ad6573d60": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae4a2b25542995ad6573de0": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae4a91d5542995ad6573e09": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae524415542992663a4f121": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae528e655429908b632652c": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae531695542990ba0bbb1fb": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae53fcb55429960a22e029e": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae56a0d5542990ba0bbb29c": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae5a4e5554299546bf82f01": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae5e62455429929b0807a07": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae6179b5542992663a4f25b": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae629215542995703ce8b34": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae690b055429908198fa622": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae70369554299572ea54683": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae71bee554299572ea546ea": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae73c00554299572ea5478a": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae762985542995703ce8c04": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae8027d5542993210984031": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae849cc5542997ec2727798": {
+      "committed": 4,
+      "valid": 4
+    }
+  },
+  "planned": 800,
+  "requested_model": "gemini-3.5-flash-lite",
+  "response_integrity": {
+    "empty": 0,
+    "malformed": 0,
+    "refused": 0,
+    "truncated": 0,
+    "valid": 800
+  },
+  "returned_model_versions": [
+    "gemini-3.5-flash-lite"
+  ],
+  "split": "main",
+  "successful_calls": 800,
+  "technical_failure_attempts": 1,
+  "technical_retries": 1,
+  "terminal_failures": [],
+  "token_usage_totals": {
+    "candidatesTokenCount": 4146,
+    "promptTokenCount": 1474596,
+    "totalTokenCount": 1478742
+  },
+  "total_tokens": 1478742,
+  "unattempted": [],
+  "unexpected_regeneration": false,
+  "unexpected_scientific_ids": [],
+  "valid_outputs": 800
+}

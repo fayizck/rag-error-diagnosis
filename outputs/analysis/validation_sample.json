@@ -1,0 +1,99 @@
+{
+  "cases": [
+    {
+      "item_id": "5ade7feb5542992fa25da799",
+      "stratum": "any_harm"
+    },
+    {
+      "item_id": "5a7c00a55542996dd594b87e",
+      "stratum": "any_harm"
+    },
+    {
+      "item_id": "5a80b322554299485f5986c8",
+      "stratum": "any_harm"
+    },
+    {
+      "item_id": "5a81fa59554299676cceb1b0",
+      "stratum": "any_harm"
+    },
+    {
+      "item_id": "5ac23f9555429951e9e684db",
+      "stratum": "any_harm"
+    },
+    {
+      "item_id": "5a89f58f5542992e4fca84af",
+      "stratum": "repair_without_harm"
+    },
+    {
+      "item_id": "5a8e08ab5542995085b37393",
+      "stratum": "repair_without_harm"
+    },
+    {
+      "item_id": "5a85e5345542991dd0999ebb",
+      "stratum": "repair_without_harm"
+    },
+    {
+      "item_id": "5adc861c5542994d58a2f62c",
+      "stratum": "repair_without_harm"
+    },
+    {
+      "item_id": "5a808f96554299485f598655",
+      "stratum": "repair_without_harm"
+    },
+    {
+      "item_id": "5a80abd15542996402f6a5e0",
+      "stratum": "unchanged_correctness_answer_switch"
+    },
+    {
+      "item_id": "5ae3606b5542991a06ce99a8",
+      "stratum": "unchanged_correctness_answer_switch"
+    },
+    {
+      "item_id": "5adf51e05542995534e8c78a",
+      "stratum": "unchanged_correctness_answer_switch"
+    },
+    {
+      "item_id": "5ae358c05542990afbd1e10f",
+      "stratum": "unchanged_correctness_answer_switch"
+    },
+    {
+      "item_id": "5adfde09554299025d62a369",
+      "stratum": "unchanged_correctness_answer_switch"
+    },
+    {
+      "item_id": "5ac50bca55429924173fb57f",
+      "stratum": "no_answer_switch"
+    },
+    {
+      "item_id": "5ae4890a5542995ad6573d60",
+      "stratum": "no_answer_switch"
+    },
+    {
+      "item_id": "5ae414d855429970de88d8ec",
+      "stratum": "no_answer_switch"
+    },
+    {
+      "item_id": "5a8313a755429954d2e2ec06",
+      "stratum": "no_answer_switch"
+    },
+    {
+      "item_id": "5ae5a4e5554299546bf82f01",
+      "stratum": "no_answer_switch"
+    }
+  ],
+  "illustrative_examples": [
+    {
+      "item_id": "5ade7feb5542992fa25da799",
+      "stratum": "any_harm"
+    },
+    {
+      "item_id": "5a89f58f5542992e4fca84af",
+      "stratum": "repair_without_harm"
+    },
+    {
+      "item_id": "5a80abd15542996402f6a5e0",
+      "stratum": "unchanged_correctness_answer_switch"
+    }
+  ],
+  "selection_rule": "five hash-ranked cases per prespecified disjoint stratum; no backfill"
+}

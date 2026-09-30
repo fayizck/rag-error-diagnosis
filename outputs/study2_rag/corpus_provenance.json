@@ -1,0 +1,16 @@
+{
+  "corpus_construction": "Pool every context page across all 7,405 dev records; normalize titles; merge exact text variants; one page unit per normalized title.",
+  "corpus_documents": 66576,
+  "dataset": "HotpotQA development distractor split",
+  "license": "CC BY-SA 4.0 (HotpotQA distribution)",
+  "limitation": "Shared development-derived page pool, not the official 2017 FullWiki corpus. Every dev question contributes its support pages and distractors, so open-domain recall may be optimistic.",
+  "logical_corpus_sha256": "d196298dad82198d0894a88f82f5342f3b68f58b0e583dde45d76574220f23f1",
+  "normalization_collisions": 5,
+  "normalized_title_units": 66576,
+  "raw_unique_titles": 66581,
+  "source_context_entries": 73700,
+  "source_path": "data/cache/hotpot_dev_distractor_v1.json",
+  "source_records": 7405,
+  "source_sha256": "d3ad9b87a18ba9a3ce5054f8633310e441ae9e13ada08d66e47acf8d0ae0f7f2",
+  "units_with_multiple_text_variants": 59
+}

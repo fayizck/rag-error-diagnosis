@@ -1,0 +1,32 @@
+{
+  "completed_at": "2026-09-29T20:46:46.396737+00:00",
+  "passed": true,
+  "source_hashes": {
+    "analysis/__init__.py": "d942d9dbc621c14d408aee4158e044f00f81bc724a00d2e29d825b24da7855a1",
+    "analysis/figures.py": "e0ed7a03195e0165ea6623dc8d655863d0fa530edfe32e151040f57956e9a92b",
+    "analysis/reconcile.py": "2e3cb8504116d6a69af6654d228546541dca8d65d2b427286eed929d6a9245a0",
+    "analysis/run.py": "1c58a093ecb18e70bc3c3f25362879866fb58b44f4f87094d5aa424d0b1f950e",
+    "analysis/stats.py": "f6d97eb0eaf47d4e81d9b5df5cc575d7cbf1b63edb2f6ea3aae7781fbb2fa10b",
+    "config/study.json": "0739e6a1b5b19a29fa1166b11e84dbde4cace158bd482dc88f4a40bdd5982026",
+    "docs/PROTOCOL_SPEC.md": "358244ad3b7bbbffbfcdd46e40fd2126c6795e7e04fc7faab48b3b5366d99f72",
+    "experiment/__init__.py": "733ad410caf1a043f9df75c3c344dae2813ffb3d283ff311590e09cb4a28157f",
+    "experiment/collect_main.py": "048164d22e9d09d107ef2ebedc050b25bb0af6534d39340f73f118b12dd5e77b",
+    "experiment/collector.py": "4c89ac121da7f511b5a292c379a84a2c7bfd14726e3562bc91cb4b95047c7a76",
+    "experiment/common.py": "619e0a8e992764af865e1f97f3a6cb1ddc9bb8b2f22605fdf5a4db8bac6a91aa",
+    "experiment/freeze.py": "a93b7848f403cc2b0ae5f70659c8f0807ab496c8346984edd8773fd62a644ebc",
+    "experiment/pilot.py": "b88afb7b0ae2944d990b920cb6ad4ad4e4c9fc3214b45dfb9defa4cd77b87009",
+    "experiment/prepare.py": "b66aee971ea9eeedc98a7a94c4a8ff13a5e386dbbdf7b3aedf2c0426651e54a8",
+    "experiment/prompts.py": "8a1654c25707d1820579d4932896b971e68415c37d14e65b52845fe87f0eef26",
+    "experiment/provider.py": "9e2392c01594b6770d7fec02d52421f1e589cd500cc4eb0b0c6758679fed7c33",
+    "experiment/review_inputs.py": "bdb3762c246fe9abe1a3ad82310e1043a7dd3a1729104e06384d134f5bc43a7b",
+    "experiment/scoring.py": "f9f824b8c389d57afa81a267897beca6e94452f0336487ef4a299dc5721b5549",
+    "experiment/selfcheck.py": "b2cc3dfeb3efb5d5e93f392c09e9428e8a1e472cdceba0714d8f79c36fe7112c",
+    "experiment/storage.py": "034a935b8c1c49601c304ebfbc8fcfc64553c86a4008bd5863717862052b497c",
+    "experiment/test.py": "599e82a8ca0e2f9437a49cb733f8092139ff0a45a804b50e5163d0307fe8e33e",
+    "experiment/validate.py": "1af598bf33afcb977f356bc1fe8f1341c7b143d09a8112779916ba9c157cda7b",
+    "experiment/verify_model.py": "a542c619996bd61ded7c254c5300708507eb58f01c6e0a7967cbf30e7542f839",
+    "requirements.txt": "f68573bb7b2e36c6cb70bfb5a5b13b5c1f58768f3e2fed367fa6a0f34a7625cc",
+    "tests/test_integration.py": "5e7e3952540b33dc548b1c84807ff2b592c9fe74f859580c774549344cb3e3f7",
+    "tests/test_pipeline.py": "3ccc477826ffb08ad11119de81b5761f9cc10388415235948a0e0c5e2bc4909a"
+  }
+}

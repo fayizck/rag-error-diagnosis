@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "title": "Complete Evidence, Incomplete Highlights: A Paired Study of Multi-Hop Question Answering",
+  "research_question": "When complete supporting evidence is available, how does incomplete versus complete evidence highlighting affect multi-hop question answering?",
+  "seed": 20260929,
+  "pilot_size": 10,
+  "main_size": 200,
+  "model": "gemini-3.5-flash-lite",
+  "api_base": "https://generativelanguage.googleapis.com/v1beta",
+  "generation_config": {
+    "temperature": 0.0,
+    "candidateCount": 1,
+    "maxOutputTokens": 2048,
+    "responseMimeType": "text/plain",
+    "thinkingConfig": {"thinkingLevel": "MINIMAL", "includeThoughts": false}
+  },
+  "prompt_utf8_byte_limit": 100000,
+  "documented_input_token_limit": 1048576,
+  "bootstrap_resamples": 10000,
+  "retry_policy": {
+    "max_attempts": 3,
+    "retry_http_statuses": [408, 429, 500, 502, 503, 504],
+    "retry_transport": ["ConnectError", "ConnectTimeout", "ReadTimeout", "WriteTimeout", "ReadError", "WriteError", "RemoteProtocolError", "PoolTimeout"],
+    "base_delay_seconds": 2.0,
+    "max_delay_seconds": 60.0,
+    "request_timeout_seconds": 90
+  },
+  "default_concurrency": 8,
+  "default_rpm": 30,
+  "default_tpm": 60000,
+  "dataset_url": "https://curtis.ml.cmu.edu/datasets/hotpot/hotpot_dev_distractor_v1.json",
+  "dataset_fallback_url": "https://huggingface.co/datasets/hotpotqa/hotpot_qa/resolve/1908d6afbbead072334abe2965f91bd2709910ab/distractor/validation-00000-of-00001.parquet",
+  "dataset_fallback_revision": "1908d6afbbead072334abe2965f91bd2709910ab",
+  "dataset_path": "data/cache/hotpot_dev_distractor_v1.json"
+}

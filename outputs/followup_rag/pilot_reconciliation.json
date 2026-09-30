@@ -1,0 +1,15 @@
+{
+  "bad_prompt_or_freeze_count": 0,
+  "committed": 8,
+  "estimated_cost_usd": 0.0037091,
+  "expected": 8,
+  "fingerprint": "dcd3238a0e8cc44f9421ed4113c5ed6031f9f3e128fedfa53dbf0f357612c6bb",
+  "finish_events": 8,
+  "freeze_sha256": "875423e20e22942cb78630ce836d2aee6ab52c9b72edb2ed0fde80b5a12ba632",
+  "split": "pilot",
+  "status_counts": {
+    "valid": 8
+  },
+  "technical_pass": true,
+  "terminal_events": 8
+}

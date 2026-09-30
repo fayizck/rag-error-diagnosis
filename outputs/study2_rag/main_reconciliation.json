@@ -1,0 +1,42 @@
+{
+  "all_planned_accounted": true,
+  "attempts": 200,
+  "checked_at_unix": 1790735728.314867,
+  "collection_complete": true,
+  "committed": 200,
+  "duplicate_scientific_ids": 0,
+  "freeze_sha256": "97155b9ccbdbe26de52d896c35c93b49ed8281c528afb08e615e4267050712cf",
+  "integrity_errors": [],
+  "integrity_passed": true,
+  "latency_seconds": {
+    "max": 1.3557821250287816,
+    "mean": 0.5942629914439749,
+    "median": 0.5789102505077608
+  },
+  "logical_fingerprint": "efde4d87ef07f3dae12b15c0d416e9e9efdddc9fe13c023b8595a73cd4760837",
+  "missing_ids": [],
+  "planned": 200,
+  "response_integrity": {
+    "empty": 0,
+    "malformed": 0,
+    "refused": 0,
+    "truncated": 0,
+    "valid": 200
+  },
+  "response_integrity_pass": true,
+  "returned_model_versions": [
+    "gemini-3.5-flash-lite"
+  ],
+  "split": "main",
+  "technical_failure_attempts": 0,
+  "technical_pass": true,
+  "technical_retries": 0,
+  "terminal_failures": [],
+  "token_usage_totals": {
+    "candidatesTokenCount": 1195,
+    "promptTokenCount": 287892,
+    "totalTokenCount": 289087
+  },
+  "unexpected_ids": [],
+  "valid_outputs": 200
+}

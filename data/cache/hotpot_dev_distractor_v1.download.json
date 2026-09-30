@@ -1,0 +1,12 @@
+{
+  "accessed_at": "2026-09-29T20:30:18.259234+00:00",
+  "conversion": "id renamed _id; parallel context/support arrays zipped in order. No string edits.",
+  "downloaded_file_sha256": "c20b638ca82b21d04fe12e14ff417ad05153d4d215a65de54497fca4e972f7c6",
+  "downloaded_filename": "hotpot_distractor_validation.parquet",
+  "fallback_reason": "Original CMU HTTPS and HTTP endpoints timed out during preparation",
+  "repository": "https://huggingface.co/datasets/hotpotqa/hotpot_qa",
+  "requested_url": "https://huggingface.co/datasets/hotpotqa/hotpot_qa/resolve/1908d6afbbead072334abe2965f91bd2709910ab/distractor/validation-00000-of-00001.parquet",
+  "resolved_url": "https://us.aws.cdn.hf.co/xet-bridge-us/621ffdd236468d709f181e65/6f4264cffe19511caba92594db23f1a32eb76fdeebbb04f7a98a589a3726423e",
+  "revision": "1908d6afbbead072334abe2965f91bd2709910ab",
+  "sha256": "d3ad9b87a18ba9a3ce5054f8633310e441ae9e13ada08d66e47acf8d0ae0f7f2"
+}

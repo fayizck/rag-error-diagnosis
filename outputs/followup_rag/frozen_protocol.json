@@ -1,0 +1,115 @@
+{
+  "code_sha256": "d226e3b2c5a44684a0da53c316fe020391cf684802ff7b17320b1dce0826572c",
+  "date": "2026-09-30",
+  "design": {
+    "interpretation": "Gold support titles make these oracle diagnostics, not an achievable retriever or proof of internal model reasoning. Page presence is not verified textual sufficiency. Exact match can reject valid answers; Study 2 human audit remains essential.",
+    "missing_page": "On every partial question, compare a fresh unchanged top-10 replay with a prompt that replaces the lowest-ranked non-support page with the missing annotated support page at the same position.",
+    "no_answer_dependent_selection": true,
+    "pilot": "Two partial and two complete questions from the separate Study 2 pilot set, both arms each, for technical validation only.",
+    "present_page_cue": "On every complete question, compare two fresh prompts with identical ten pages and cue instructions; all passage focus flags are zero in control, and exactly the two annotated support-page flags become one in intervention.",
+    "primary_outcomes": "Within-question intervention-minus-control official HotpotQA exact match difference for each experiment, with repairs, harms, paired bootstrap 95% intervals, and exact two-sided discordant-pair p-values.",
+    "secondary_outcomes": "Within-question F1 difference, response-integrity counts, and comparison to the original Study 2 answers as descriptive context only."
+  },
+  "freeze_sha256": "875423e20e22942cb78630ce836d2aee6ab52c9b72edb2ed0fde80b5a12ba632",
+  "main_emergency_guard_usd": 2.0,
+  "manifests": {
+    "main": {
+      "max_prompt_bytes": 9986,
+      "path": "outputs/followup_rag/main_manifest.jsonl",
+      "questions": 197,
+      "requests": 394,
+      "sha256": "d17a92aa32f37f32c735025ce4756e4317f35f2ca4ad32f9adaac7db8bbce043",
+      "source_retrieval_sha256": "83bc3af99bbf7061aabb7a96685d6a8bc3e1d571f35bee4252351bf946daaca3"
+    },
+    "pilot": {
+      "max_prompt_bytes": 8251,
+      "path": "outputs/followup_rag/pilot_manifest.jsonl",
+      "questions": 4,
+      "requests": 8,
+      "sha256": "7bd634bd1fea8dac31888c1062321118846fb13922dbc398e2fda789c983e264",
+      "source_retrieval_sha256": "70387fccfb1b0a87f779d14f0d9d6cae71f2f6e781652fdec4572317a78e82d3"
+    }
+  },
+  "model_configuration": {
+    "api_base": "https://generativelanguage.googleapis.com/v1beta",
+    "bm25": {
+      "b": 0.75,
+      "document": "title once plus page text",
+      "k1": 1.2,
+      "query": "question text only",
+      "tie_break": "passage_id ascending",
+      "tokenizer": "Unicode NFKC casefold; regex [^\\W_]+; no stopword removal or stemming"
+    },
+    "corpus_kind": "shared_hotpotqa_dev_distractor_page_pool",
+    "corpus_source": "data/cache/hotpot_dev_distractor_v1.json",
+    "cost": {
+      "input_usd_per_million": 0.3,
+      "main_emergency_guard_usd": 2.0,
+      "output_usd_per_million": 2.5,
+      "per_request_guard_usd": 0.05
+    },
+    "default_concurrency": 4,
+    "default_rpm": 30,
+    "default_tpm": 60000,
+    "descriptive_cutoffs": [
+      1,
+      2,
+      5,
+      10,
+      20
+    ],
+    "documented_input_token_limit": 1048576,
+    "generation_config": {
+      "candidateCount": 1,
+      "maxOutputTokens": 2048,
+      "responseMimeType": "text/plain",
+      "temperature": 0.0,
+      "thinkingConfig": {
+        "includeThoughts": false,
+        "thinkingLevel": "MINIMAL"
+      }
+    },
+    "model": "gemini-3.5-flash-lite",
+    "primary_top_k": 10,
+    "prompt_utf8_byte_limit": 100000,
+    "retrieval_unit": "one merged page-introduction unit per normalized Wikipedia title",
+    "retry_policy": {
+      "base_delay_seconds": 2.0,
+      "max_attempts": 3,
+      "max_delay_seconds": 60.0,
+      "request_timeout_seconds": 90,
+      "retry_http_statuses": [
+        408,
+        429,
+        500,
+        502,
+        503,
+        504
+      ],
+      "retry_transport": [
+        "ConnectError",
+        "ConnectTimeout",
+        "ReadTimeout",
+        "WriteTimeout",
+        "ReadError",
+        "WriteError",
+        "RemoteProtocolError",
+        "PoolTimeout"
+      ]
+    },
+    "schema_version": 1,
+    "seed": 20260929,
+    "study": "study2_rag"
+  },
+  "planned_calls": {
+    "main": 394,
+    "technical_pilot": 8
+  },
+  "population": "The frozen 200 Study 2 main questions: 91 partial and 106 complete; three with neither support page are excluded from these interventions.",
+  "scientific_question": "How much do missing support-page access and cues to already retrieved support pages change answer quality?",
+  "source_corpus_sha256": "d3ad9b87a18ba9a3ce5054f8633310e441ae9e13ada08d66e47acf8d0ae0f7f2",
+  "status": "FROZEN_BEFORE_FOLLOWUP_GENERATION",
+  "study2_freeze_file_sha256": "dd7455d842a57a80abe54032d7d711e6885f2cec57efafec4ac55de5f3525b0e",
+  "study2_freeze_sha256": "97155b9ccbdbe26de52d896c35c93b49ed8281c528afb08e615e4267050712cf",
+  "study2_seal_sha256": "084dabbd0c0685c48b6751071093e69cfc8405fcf2298f83db6ce20ce3aa7a89"
+}

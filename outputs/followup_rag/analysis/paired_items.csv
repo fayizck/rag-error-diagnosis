@@ -1,0 +1,198 @@
+control_answer,control_em,control_f1,control_status,em_delta,experiment,f1_delta,intervention_answer,intervention_em,intervention_f1,intervention_status,item_id
+living space,0,0.0,valid,1,missing_page,1.0,Blood and soil,1,1.0,valid,5a7264ed5542990c210a411a
+Bob Day,1,1.0,valid,0,missing_page,0.0,Bob Day,1,1.0,valid,5a72e4375542992359bc31bf
+Henry Moseley,1,1.0,valid,0,missing_page,0.0,Henry Moseley,1,1.0,valid,5a73354f5542991f9a20c687
+Richard Hauptmann,1,1.0,valid,0,missing_page,0.0,Richard Hauptmann,1,1.0,valid,5a74d7685542996c70cfae0a
+Erreway,1,1.0,valid,0,missing_page,0.0,Erreway,1,1.0,valid,5a752fb75542993748c897df
+Not specified in the text,0,0.0,valid,0,missing_page,0.0,Not specified in the text,0,0.0,valid,5a75a4135542992d0ec05fcd
+Phoenix Suns,1,1.0,valid,0,missing_page,0.0,Phoenix Suns,1,1.0,valid,5a75e33855429976ec32bc74
+A41/A5117,0,0.0,valid,1,missing_page,1.0,A41,1,1.0,valid,5a75f0ea5542994ccc91866c
+Antonio Vivaldi,0,0.8,valid,0,missing_page,0.0,Antonio Vivaldi,0,0.8,valid,5a7736bc554299373536021b
+Not specified in the text,0,0.0,valid,0,missing_page,0.8,Art Deco,0,0.8,valid,5a79e1275542990198eaefe7
+Pakistan,0,0.6666666666666666,valid,0,missing_page,0.0,Karachi,0,0.6666666666666666,valid,5a7af4cd55429931da12c9a6
+Cecily Strong,1,1.0,valid,0,missing_page,0.0,Cecily Strong,1,1.0,valid,5a7b782455429927d897bfd7
+"I am sorry, but the provided context does not contain information about what sea the San Jose Secondary Educational Center is located on.",0,0.0,valid,0,missing_page,0.6666666666666666,Mediterranean Sea,0,0.6666666666666666,valid,5a7c00a55542996dd594b87e
+Girls' Generation,1,1.0,valid,0,missing_page,0.0,Girls' Generation,1,1.0,valid,5a7c6753554299683c1c62f9
+Not provided in the text.,0,0.0,valid,1,missing_page,1.0,The Hungry,1,1.0,valid,5a7cb94f554299683c1c6353
+Des O'Connor,1,1.0,valid,-1,missing_page,-0.19999999999999996,Des O'Connor Tonight,0,0.8,valid,5a7cb9985542990527d55514
+The Legend of Sleepy Hollow,1,1.0,valid,0,missing_page,0.0,The Legend of Sleepy Hollow,1,1.0,valid,5a7cdd1c554299683c1c63a8
+New Kids on the Block,0,0.0,valid,1,missing_page,1.0,Mudvayne,1,1.0,valid,5a7f354b5542992e7d278c8c
+Gerald B. and Beverley Tonkens House,0,0.0,valid,1,missing_page,1.0,Amberley Village,1,1.0,valid,5a7f84225542994857a76756
+Not mentioned in the retrieved context.,0,0.0,valid,0,missing_page,0.8750000000000001,"The Golden Ratio: The Story of Phi, the World's Most Astonishing Number",0,0.8750000000000001,valid,5a7fa2ad5542994857a76792
+"Wong Jing, Jiang Zhuoyuan, Lam Chi-chung, Zhang Yibai, Xie Dongshen, Zhang Yimou, Steven S. DeKnight, or Jordan Vogt-Roberts",0,0.0,valid,0,missing_page,0.19999999999999998,"Wong Jing, Jiang Zhuoyuan, Lam Chi-chung, Zhang Yibai, Xie Dongshen, Zhang Yimou, Steven S. DeKnight, or Ding Sheng",0,0.19999999999999998,valid,5a80abd15542996402f6a5e0
+278th episode,1,1.0,valid,0,missing_page,0.0,278th episode,1,1.0,valid,5a80b322554299485f5986c8
+Clarence Nash and Tony Anselmo,0,0.5714285714285715,valid,0,missing_page,0.0,Clarence Nash and Tony Anselmo,0,0.5714285714285715,valid,5a81a4335542990a1d231e38
+Not provided in the context,0,0.0,valid,0,missing_page,0.8571428571428571,1825 to 1854,0,0.8571428571428571,valid,5a81b7205542990a1d231e79
+"Based on the provided context, there is no mention of the record company that released the album in the UK.",0,0.0,valid,1,missing_page,1.0,Parlophone Records,1,1.0,valid,5a81ea115542995ce29dcc78
+Lawrence of Arabia,1,1.0,valid,0,missing_page,0.0,Lawrence of Arabia,1,1.0,valid,5a81ee385542995ce29dcc88
+Patricia Veryan,0,0.0,valid,1,missing_page,1.0,Eva Ibbotson,1,1.0,valid,5a82e25555429954d2e2ebbf
+"Based on the provided text, there is no mention of the city in which Brian Mannal convened.",0,0.0,valid,1,missing_page,1.0,Boston,1,1.0,valid,5a849cc95542997175ce1efa
+Not provided in the retrieved context.,0,0.0,valid,0,missing_page,0.5714285714285715,Israeli Ambassador to the United States,0,0.5714285714285715,valid,5a84f5195542994c784dda9d
+"Based on the provided context, there is no mention of the seating capacity of the arena where the Lewiston Maineiacs played.",0,0.0,valid,0,missing_page,0.6666666666666666,"3,677 seated (4,000 capacity)",0,0.6666666666666666,valid,5a87ab905542996e4f3088c1
+Christopher Nolan,1,1.0,valid,0,missing_page,0.0,Christopher Nolan,1,1.0,valid,5a88a1bb5542997e5c09a64c
+Carnforth railway station,0,0.6666666666666666,valid,1,missing_page,0.33333333333333337,Borwick railway station,1,1.0,valid,5a89f58f5542992e4fca84af
+FC Bayern Munich,1,1.0,valid,0,missing_page,0.0,FC Bayern Munich,1,1.0,valid,5a8a09765542992d82986e67
+Universal Pictures,0,0.0,valid,1,missing_page,1.0,1912,1,1.0,valid,5a8a429955429930ff3c0d34
+None,0,0.0,valid,0,missing_page,0.0,videogames,0,0.0,valid,5a8b8f5b55429949d91db5e1
+"Based on the provided context, there is no mention of a writer for *The Kenyon Review* winning a Pulitzer Prize.",0,0.0,valid,0,missing_page,0.0,"Based on the provided context, there is no mention of a writer for *The Kenyon Review* winning a Pulitzer Prize.",0,0.0,valid,5a8ba0855542995d1e6f1427
+Harare,1,1.0,valid,0,missing_page,0.0,Harare,1,1.0,valid,5a8baf635542996e8ac889c6
+LBK,0,0.0,valid,0,missing_page,0.0,LBK,0,0.0,valid,5a8bc03d5542996e8ac88a0b
+United States Marine Corps,0,0.6666666666666666,valid,0,missing_page,0.0,United States Marine Corps,0,0.6666666666666666,valid,5a8dce155542994ba4e3dd24
+General Motors,1,1.0,valid,-1,missing_page,-1.0,Groupe PSA,0,0.0,valid,5a8de7c65542995085b37353
+"Hair, Prince of the City, Once Upon a Time in America, The Late Shift",0,0.0,valid,0,missing_page,0.18181818181818182,"Milk, Pineapple Express, Rise of the Planet of the Apes, Spring Breakers, Oz the Great and Powerful, This Is the End, The Disaster Artist, Spider-Man",0,0.18181818181818182,valid,5a8dee2455429917b4a5bce1
+Theoretical particle physics and quantum field theory,0,0.22222222222222224,valid,1,missing_page,0.7777777777777778,Quantum mechanics,1,1.0,valid,5a8dff3f5542995085b37370
+"Based on the provided text, there is no mention of the mother of the king that Walchelin de Ferriers was principal captain to (King Richard I).",0,0.07407407407407408,valid,0,missing_page,0.783068783068783,Eleanor of Aquitaine,0,0.8571428571428571,valid,5a8e08ab5542995085b37393
+Lotus Shan,0,0.0,valid,1,missing_page,1.0,Park Yong-gyu,1,1.0,valid,5a8e8d665542995085b3744e
+Illa J and Frank Nitt,0,0.16666666666666666,valid,0,missing_page,0.6666666666666666,"Royce da 5'9"" and Eminem",0,0.8333333333333333,valid,5a90605d5542995651fb514d
+Netherlands,1,1.0,valid,0,missing_page,0.0,Netherlands,1,1.0,valid,5a90b1a15542990a984936ab
+Ann,0,0.0,valid,1,missing_page,1.0,Marie,1,1.0,valid,5ab1dcab5542993be8fa985e
+Chimpanzee,0,0.0,valid,0,missing_page,0.0,Chimpanzee,0,0.0,valid,5ab73eaf5542992aa3b8c7ef
+The provided context does not contain the founding date of the company that owns Bonifacio High Street (Ayala Corporation / Ayala Land).,0,0.0,valid,1,missing_page,1.0,1988,1,1.0,valid,5ab7d6ec5542995dae37e9b4
+Illinois,0,0.5,valid,0,missing_page,0.0,Illinois,0,0.5,valid,5ab7e3c45542995dae37e9db
+"Hawaiian ""creation""",0,0.0,valid,0,missing_page,0.0,"Hawaiian ""creation""",0,0.0,valid,5ab808b85542991d3222380d
+Not specified in the text.,0,0.0,valid,1,missing_page,1.0,Houston Rockets,1,1.0,valid,5ab8723c55429934fafe6dbc
+Royler Gracie,1,1.0,valid,0,missing_page,0.0,Royler Gracie,1,1.0,valid,5ab95a63554299743d22eb06
+Leatherheads,1,1.0,valid,0,missing_page,0.0,Leatherheads,1,1.0,valid,5ab960d6554299743d22eb21
+1926 Paris,1,1.0,valid,-1,missing_page,-0.33333333333333337,Paris,0,0.6666666666666666,valid,5ab98608554299131ca42362
+Not mentioned in the context.,0,0.0,valid,1,missing_page,1.0,Maryland,1,1.0,valid,5abaee845542996606241696
+Tulane University men's basketball team,0,0.0,valid,1,missing_page,1.0,Cleveland Cavaliers,1,1.0,valid,5abcff225542993a06baf9ea
+Crosby's Crab Company,0,0.0,valid,0,missing_page,0.0,Crosby's Crab Company,0,0.0,valid,5abcffc2554299700f9d7951
+1876,1,1.0,valid,0,missing_page,0.0,1876,1,1.0,valid,5abd0296554299114383a1d1
+Germany,0,0.0,valid,1,missing_page,1.0,Czech Republic,1,1.0,valid,5abdb4a755429965af743df0
+Hennepin County,1,1.0,valid,0,missing_page,0.0,Hennepin County,1,1.0,valid,5abdce1b5542993062266cfe
+National Lottery,0,0.0,valid,0,missing_page,0.0,National Lottery,0,0.0,valid,5abe87cb5542993f32c2a156
+"Based on the provided context, there is no mention of the year the actress immigrated to the United States.",0,0.0,valid,1,missing_page,1.0,1905,1,1.0,valid,5ac02880554299012d1db5c0
+"Based on the provided context, there is no mention of the author of ""Albert Speer: His Battle with Truth"" (Gitta Sereny) being convicted.",0,0.0,valid,0,missing_page,0.0,"Based on the provided context, there is no mention of Gitta Sereny (the author of ""Albert Speer: His Battle with Truth"") being convicted.",0,0.0,valid,5ac0805f5542992a796ded29
+"Based on the provided context, the lyricists for Linda Eder's Broadway debut (in ""Jekyll & Hyde"") are not specified. (Passage 2 mentions that the songs in ""Jekyll and Hyde"" were composed by Frank Wildhorn with lyrics by Frank Wildhorn, Leslie Bricusse, and Steve Cuden, but the text does not explicitly state who wrote the lyrics specifically for her debut.)",0,0.14035087719298245,valid,0,missing_page,0.5869218500797448,"Frank Wildhorn, Leslie Bricusse and Steve Cuden",0,0.7272727272727273,valid,5ac113e2554299294b21909a
+Young earth creationism and intelligent design,0,0.5,valid,0,missing_page,0.0,Young earth creationism and intelligent design,0,0.5,valid,5ac273455542992f1f2b38d4
+1787,0,0.0,valid,0,missing_page,0.7499999999999999,18 or 19 November 1786,0,0.7499999999999999,valid,5ac2768d5542990b17b153a8
+Not provided in the context,0,0.0,valid,0,missing_page,0.5714285714285715,Boston University and Harvard University,0,0.5714285714285715,valid,5ac50bca55429924173fb57f
+[Retrieved passage 1] does not provide the foundation date of Monterrey.,0,0.0,valid,1,missing_page,1.0,28 June 1945,1,1.0,valid,5adc2e3d554299438c868d6b
+Stetsasonic,0,0.0,valid,0,missing_page,0.07407407407407407,"Based on the provided retrieved context, there is no mention of Carlene LeFevre and Rich LeFevre forming any group in Brooklyn, New-York City.",0,0.07407407407407407,valid,5adcc3ed5542994d58a2f6c4
+[Retrieved passage 1 does not provide information about the era in which the genre was founded.],0,0.0,valid,0,missing_page,0.8571428571428571,post–World War II era,0,0.8571428571428571,valid,5adcfba05542990d50227d83
+Vyto Ruginis,1,1.0,valid,0,missing_page,0.0,Vyto Ruginis,1,1.0,valid,5addfdf65542992200553bd2
+Not mentioned in the context.,0,0.0,valid,0,missing_page,0.0,Not specified in the text.,0,0.0,valid,5adf51e05542995534e8c78a
+Las Vegas Sands Corporation,0,0.75,valid,0,missing_page,0.1071428571428571,Las Vegas Sands,0,0.8571428571428571,valid,5ae0345855429924de1b705f
+"Based on the provided context, there is no mention of the city of Gualeguaychú.",0,0.0,valid,0,missing_page,0.0,South-east of the province of Entre Ríos,0,0.0,valid,5ae17f1e5542990adbacf7a6
+Lowestoft,1,1.0,valid,0,missing_page,0.0,Lowestoft,1,1.0,valid,5ae1fd995542997283cd2313
+Not provided in the context.,0,0.0,valid,1,missing_page,1.0,810,1,1.0,valid,5ae237ac554299492dc91be1
+Ronald Reagan,0,0.0,valid,0,missing_page,0.0,Ronald Reagan,0,0.0,valid,5ae2e0fd55429928c4239524
+Romas Kalanta,1,1.0,valid,0,missing_page,0.0,Romas Kalanta,1,1.0,valid,5ae358c05542990afbd1e10f
+Amyotrophic lateral sclerosis (ALS),0,0.0,valid,0,missing_page,0.0,Amyotrophic lateral sclerosis (ALS),0,0.0,valid,5ae3606b5542991a06ce99a8
+"""Lucky""",1,1.0,valid,0,missing_page,0.0,"""Lucky""",1,1.0,valid,5ae3a1aa5542994393b9e72d
+Not specified in the provided context.,0,0.0,valid,1,missing_page,1.0,1903,1,1.0,valid,5ae414d855429970de88d8ec
+Quantrill's Raiders,0,0.0,valid,0,missing_page,0.0,Quantrill's Raiders,0,0.0,valid,5ae4a2b25542995ad6573de0
+"Based on the provided text, the city where the event took place is not mentioned.",0,0.0,valid,0,missing_page,0.6666666666666666,Helsinki,0,0.6666666666666666,valid,5ae524415542992663a4f121
+1945,1,1.0,valid,0,missing_page,0.0,1945,1,1.0,valid,5ae531695542990ba0bbb1fb
+Not provided in the context,0,0.0,valid,0,missing_page,0.4444444444444445,"Seth MacFarlane, Mike Barker, and Matt Weitzman",0,0.4444444444444445,valid,5ae53fcb55429960a22e029e
+Italian,1,1.0,valid,0,missing_page,0.0,Italian,1,1.0,valid,5ae5e62455429929b0807a07
+Adelaide,1,1.0,valid,0,missing_page,0.0,Adelaide,1,1.0,valid,5ae629215542995703ce8b34
+Cheshire,0,0.0,valid,1,missing_page,1.0,Ellesmere Port,1,1.0,valid,5ae690b055429908198fa622
+Monty Stratton,0,0.6666666666666666,valid,0,missing_page,0.0,Monty Stratton,0,0.6666666666666666,valid,5ae8027d5542993210984031
+"Michigan, Wisconsin, Minnesota, Illinois, Indiana, Ohio, Pennsylvania, and New York",0,0.3636363636363636,valid,0,missing_page,0.1363636363636364,"Minnesota, Wisconsin, and Michigan",0,0.5,valid,5ae849cc5542997ec2727798
+World Championship Wrestling (WCW),0,0.8571428571428571,valid,0,present_page_cue,0.0,World Championship Wrestling (WCW),0,0.8571428571428571,valid,5a73583455429901807dafcf
+Bill Dudman,0,0.6666666666666666,valid,0,present_page_cue,0.0,Bill Dudman,0,0.6666666666666666,valid,5a74a8fa55429929fddd8497
+Universal Pictures,1,1.0,valid,0,present_page_cue,0.0,Universal Pictures,1,1.0,valid,5a74be0b5542996c70cfadc8
+Chad,1,1.0,valid,0,present_page_cue,0.0,Chad,1,1.0,valid,5a7502345542993748c89795
+Gareth Barry,1,1.0,valid,0,present_page_cue,0.0,Gareth Barry,1,1.0,valid,5a7723ce55429966f1a36c9f
+Lonestar,1,1.0,valid,0,present_page_cue,0.0,Lonestar,1,1.0,valid,5a7747e15542994aec3b7266
+Spanish,1,1.0,valid,0,present_page_cue,0.0,Spanish,1,1.0,valid,5a77d5b855429949eeb29f77
+Dâmbovița River,1,1.0,valid,0,present_page_cue,0.0,Dâmbovița River,1,1.0,valid,5a7a47be5542994f819ef1b2
+The endorheic Sistan Basin,0,0.8,valid,0,present_page_cue,0.0,Endorheic Sistan Basin,0,0.8,valid,5a7a5ec855429941d65f25e4
+Canada's first train robbery,1,1.0,valid,0,present_page_cue,0.0,Canada's first train robbery,1,1.0,valid,5a7b1a4a55429927d897bf3b
+Pasek and Paul,0,0.8,valid,0,present_page_cue,-0.35555555555555557,Pasek & Paul (Benj Pasek and Justin Paul),0,0.4444444444444445,valid,5a7b3f4d5542992d025e67bb
+The Ones Who Walk Away from Omelas,1,1.0,valid,0,present_page_cue,0.0,The Ones Who Walk Away from Omelas,1,1.0,valid,5a7cd8da55429909bec76845
+Pavel Datsyuk,0,0.8,valid,0,present_page_cue,0.0,Pavel Datsyuk,0,0.8,valid,5a7dbb295542990b8f503a4b
+1943,1,1.0,valid,0,present_page_cue,0.0,1943,1,1.0,valid,5a807f6a5542992bc0c4a737
+The First Balkan War,0,0.5,valid,0,present_page_cue,0.0,The First Balkan War,0,0.5,valid,5a808f96554299485f598655
+Acting (Actor / Actress),0,0.5,valid,0,present_page_cue,-0.5,Acting (Actor/Actress),0,0.0,valid,5a81fa59554299676cceb1b0
+Naomi Wallace,1,1.0,valid,0,present_page_cue,0.0,Naomi Wallace,1,1.0,valid,5a8313a755429954d2e2ec06
+Kathy Sullivan,0,0.0,valid,0,present_page_cue,0.0,Kathy Sullivan,0,0.0,valid,5a8325b35542990548d0b18f
+"photographs, film and television",1,1.0,valid,0,present_page_cue,0.0,"photographs, film and television",1,1.0,valid,5a839f985542996488c2e47d
+"A federal popular initiative (""against mass immigration"") / a referendum that aimed to limit immigration through quotas.",0,0.0,valid,0,present_page_cue,0.0,"Swiss federal popular initiative ""against mass immigration""",0,0.0,valid,5a83eaae55429933447460b4
+Five books,1,1.0,valid,0,present_page_cue,0.0,Five books,1,1.0,valid,5a84524a554299123d8c2203
+The provided text does not mention who succeeded Ibbi-Sipish (Ibbi-Zikir) as the vizier of Ebla after his 17-year service.,0,0.0,valid,0,present_page_cue,0.0,Ibbi-Sipish (or Ibbi-Zikir),0,0.0,valid,5a84bc5b5542991dd0999dc3
+The show's 500th episode,1,1.0,valid,-1,present_page_cue,-0.4285714285714285,The 500th episode of the series,0,0.5714285714285715,valid,5a84e61b5542997b5ce3ff86
+Hydraulic brake and hydraulic clutch,0,0.5714285714285715,valid,0,present_page_cue,0.0,Hydraulic clutch (or hydraulic brake),0,0.5714285714285715,valid,5a85e5345542991dd0999ebb
+Sissy Spacek,1,1.0,valid,0,present_page_cue,0.0,Sissy Spacek,1,1.0,valid,5a88cc8f55429938390d3fc5
+Fridtjof Nansen,0,0.6666666666666666,valid,0,present_page_cue,0.0,Fridtjof Nansen,0,0.6666666666666666,valid,5a890b895542995153361278
+Jeff Van Gundy,0,0.5714285714285715,valid,0,present_page_cue,0.0,Jeff Van Gundy,0,0.5714285714285715,valid,5a8ac87d55429970aeb7031d
+Pedro Calomino,0,0.0,valid,0,present_page_cue,0.0,Pedro Calomino,0,0.0,valid,5a8c5be0554299653c1aa04b
+3 mi,0,0.8,valid,0,present_page_cue,-0.4,3 miles,0,0.4,valid,5a8d8e4f5542994ba4e3dca7
+"Indianapolis, Indiana",0,0.6666666666666666,valid,0,present_page_cue,0.0,"Indianapolis, Indiana",0,0.6666666666666666,valid,5a8f0a01554299458435d539
+Toxics Release Inventory,0,0.0,valid,0,present_page_cue,0.0,Toxics Release Inventory,0,0.0,valid,5a8f608d5542992414482a94
+2006,1,1.0,valid,0,present_page_cue,0.0,2006,1,1.0,valid,5a8fdd9c55429916514e73de
+Nikhil Banerjee (or Ravi Shankar),0,0.5714285714285715,valid,0,present_page_cue,-0.17142857142857149,"Nikhil Banerjee (or Ravi Shankar, or Annapurna Devi)",0,0.4,valid,5ab2a8b655429929539467ab
+8th and 16th centuries,1,1.0,valid,0,present_page_cue,0.0,8th and 16th centuries,1,1.0,valid,5ab2f85b55429929539468dc
+"The provided text does not mention whether Peter Capaldi actually played the role in ""Paddington 2"" (only stating he was set to reprise the role).",0,0.0,valid,0,present_page_cue,0.0,He did not play the role in Paddington 2 (he was only set to reprise the role).,0,0.0,valid,5ab3dbd8554299233954ffd6
+Traumnovelle (Dream Story),1,1.0,valid,0,present_page_cue,0.0,Traumnovelle (Dream Story),1,1.0,valid,5ab4355555429942dd415ee3
+Brag (or Nine-card Brag / Three-card Brag),0,0.13333333333333333,valid,0,present_page_cue,0.048484848484848464,Three-card brag,0,0.1818181818181818,valid,5ab4774d5542991751b4d781
+CIT Group,0,0.8,valid,0,present_page_cue,0.0,CIT Group,0,0.8,valid,5ab4ec2755429942dd415fa6
+New York State,0,0.8,valid,0,present_page_cue,0.0,New York State,0,0.8,valid,5ab520dd5542996a3a96a02c
+The State of Nevada,1,1.0,valid,0,present_page_cue,0.0,The State of Nevada,1,1.0,valid,5ab5cd0d554299488d4d9a30
+The Beatles,1,1.0,valid,0,present_page_cue,0.0,The Beatles,1,1.0,valid,5ab5ed505542997d4ad1f255
+jurisdiction,1,1.0,valid,0,present_page_cue,0.0,jurisdiction,1,1.0,valid,5ab624b855429953192ad26d
+Sir Arthur Conan Doyle,1,1.0,valid,-1,present_page_cue,-0.6363636363636364,Adrian Conan Doyle and John Dickson Carr,0,0.36363636363636365,valid,5ab69f9a554299710c8d1ef8
+University of Oxford,0,0.8571428571428571,valid,0,present_page_cue,0.0,University of Oxford,0,0.8571428571428571,valid,5ab6c47e55429954757d3368
+"August 19, 1968",1,1.0,valid,0,present_page_cue,0.0,"August 19, 1968",1,1.0,valid,5ab6e848554299710c8d1faa
+Ang Lee,1,1.0,valid,0,present_page_cue,0.0,Ang Lee,1,1.0,valid,5ab7268b5542992aa3b8c7b1
+Mr. Tumnus,1,1.0,valid,0,present_page_cue,0.0,Mr. Tumnus,1,1.0,valid,5ab88c075542991b5579efbe
+"Philadelphia, Pennsylvania",0,0.6666666666666666,valid,0,present_page_cue,0.0,"Philadelphia, Pennsylvania",0,0.6666666666666666,valid,5ab90a2055429916710eb0ea
+Kentucky Fried Chicken (KFC),1,1.0,valid,0,present_page_cue,0.0,Kentucky Fried Chicken (KFC),1,1.0,valid,5ab913205542991b5579f0e0
+Twin Pines/Lone Pine Mall,1,1.0,valid,0,present_page_cue,0.0,Twin Pines/Lone Pine Mall,1,1.0,valid,5abaeda95542992ccd8e7e5d
+Geneva,0,0.6666666666666666,valid,0,present_page_cue,0.0,Geneva,0,0.6666666666666666,valid,5abb207d5542992ccd8e7f1d
+Leo Varadkar,1,1.0,valid,0,present_page_cue,0.0,Leo Varadkar,1,1.0,valid,5abc8d75554299700f9d7900
+753,0,0.5,valid,0,present_page_cue,0.0,753,0,0.5,valid,5abcd44655429959677d6af1
+The Australian coast,1,1.0,valid,-1,present_page_cue,-0.19999999999999996,On the Australian coast,0,0.8,valid,5abcd77755429965836004ce
+Giotto,1,1.0,valid,0,present_page_cue,0.0,Giotto,1,1.0,valid,5abcf2b4554299700f9d7937
+Mount Everest,1,1.0,valid,0,present_page_cue,0.0,Mount Everest,1,1.0,valid,5abd12bb55429933744ab703
+Banjo,0,0.6666666666666666,valid,0,present_page_cue,0.0,Banjo,0,0.6666666666666666,valid,5abd27ba5542993062266ba7
+The Snowman,1,1.0,valid,0,present_page_cue,0.0,The Snowman,1,1.0,valid,5abd83775542993062266cb7
+The Hertz Corporation,0,0.6666666666666666,valid,0,present_page_cue,0.0,The Hertz Corporation,0,0.6666666666666666,valid,5abdc18555429965af743e2b
+Top winner,0,0.0,valid,0,present_page_cue,0.0,Top winner,0,0.0,valid,5abdcaea55429965af743e4e
+2004,1,1.0,valid,0,present_page_cue,0.0,2004,1,1.0,valid,5abf1e825542997ec76fd3cb
+Kansas Joe McCoy and Memphis Minnie,0,0.9090909090909091,valid,0,present_page_cue,0.0,Kansas Joe McCoy and Memphis Minnie,0,0.9090909090909091,valid,5ac19bf55542994ab5c67d97
+"Seldom Jackson, a former jockey who assists Dr. Jones",0,0.4,valid,1,present_page_cue,0.6,Seldom Jackson,1,1.0,valid,5ac23f9555429951e9e684db
+Atomic bombings of Hiroshima and Nagasaki,0,0.6666666666666666,valid,0,present_page_cue,0.0,Atomic bombings of Hiroshima and Nagasaki,0,0.6666666666666666,valid,5ac299b155429967731025ad
+Texas Longhorns,0,0.5714285714285715,valid,0,present_page_cue,0.0,Texas Longhorns,0,0.5714285714285715,valid,5ac2cb09554299657fa29066
+Bigg Boss 10,0,0.0,valid,0,present_page_cue,0.0,Bigg Boss 10,0,0.0,valid,5ac2efd65542990b17b154c7
+1927,1,1.0,valid,0,present_page_cue,0.0,1927,1,1.0,valid,5ac42a64554299076e296d7b
+rhythm guitar,1,1.0,valid,-1,present_page_cue,-0.4285714285714285,Guitar (rhythm guitar / Gibson acoustic),0,0.5714285714285715,valid,5ac4e593554299076e296e37
+French,1,1.0,valid,0,present_page_cue,0.0,French,1,1.0,valid,5adc3a7055429947ff173913
+Comodoro Arturo Merino Benítez International Airport,1,1.0,valid,-1,present_page_cue,-0.1428571428571429,"Comodoro Arturo Merino Benítez International Airport, Santiago, Chile",0,0.8571428571428571,valid,5adc861c5542994d58a2f62c
+2009,1,1.0,valid,0,present_page_cue,0.0,2009,1,1.0,valid,5adccdab5542994d58a2f6db
+the Apple Lisa,1,1.0,valid,0,present_page_cue,0.0,The Apple Lisa,1,1.0,valid,5add559e5542992ae4cec511
+England,1,1.0,valid,0,present_page_cue,0.0,England,1,1.0,valid,5add57e55542992ae4cec516
+Rafael Dos Anjos,0,0.8571428571428571,valid,0,present_page_cue,0.0,Rafael dos Anjos,0,0.8571428571428571,valid,5add67705542992ae4cec54f
+Marcus Island,0,0.0,valid,0,present_page_cue,0.5,Wake Island,0,0.5,valid,5ade7feb5542992fa25da799
+Two or three acts,1,1.0,valid,0,present_page_cue,0.0,Two or three acts,1,1.0,valid,5ade99ad554299728e26c75d
+Dziga Vertov,1,1.0,valid,0,present_page_cue,0.0,Dziga Vertov,1,1.0,valid,5adec4695542992fa25da83a
+Jeremy Hammond,1,1.0,valid,0,present_page_cue,0.0,Jeremy Hammond,1,1.0,valid,5adecc7755429975fa854f9d
+Lambic,1,1.0,valid,0,present_page_cue,0.0,Lambic,1,1.0,valid,5adef5fb5542993a75d263be
+John Faso,1,1.0,valid,0,present_page_cue,0.0,John Faso,1,1.0,valid,5adf076f5542992d7e9f9277
+"June 4, 1931",1,1.0,valid,0,present_page_cue,0.0,"June 4, 1931",1,1.0,valid,5adf5e285542992d7e9f9323
+NFL single-season touchdown reception record (23 in 2007),0,0.5454545454545454,valid,0,present_page_cue,0.0,NFL single-season touchdown reception record (23 in 2007),0,0.5454545454545454,valid,5adfde09554299025d62a369
+Army and Navy,0,0.8,valid,0,present_page_cue,0.0,Army and Navy,0,0.8,valid,5ae0036a55429942ec259bdf
+George Washington Bridge,1,1.0,valid,0,present_page_cue,0.0,George Washington Bridge,1,1.0,valid,5ae0132d55429925eb1afc00
+65 mph,1,1.0,valid,0,present_page_cue,0.0,65 mph,1,1.0,valid,5ae07c6255429924de1b70d6
+25 points,1,1.0,valid,0,present_page_cue,0.0,25 points,1,1.0,valid,5ae083e855429924de1b70fb
+Francis McPeake,1,1.0,valid,0,present_page_cue,0.0,Francis McPeake,1,1.0,valid,5ae129115542990adbacf722
+New York Yankees,1,1.0,valid,0,present_page_cue,0.0,New York Yankees,1,1.0,valid,5ae1465855429920d5234373
+Lady Charlotte Elliot,0,0.4,valid,0,present_page_cue,0.0,Lady Charlotte Elliot,0,0.4,valid,5ae1925a554299492dc91b48
+Rio Ferdinand,0,0.8,valid,0,present_page_cue,0.0,Rio Ferdinand,0,0.8,valid,5ae1f2d4554299234fd04358
+"The Heirs, Descendants of the Sun, and Fight for My Way",0,0.1818181818181818,valid,0,present_page_cue,0.0,"The Heirs, Descendants of the Sun, and Fight for My Way",0,0.1818181818181818,valid,5ae206c45542994d89d5b311
+Karl Kraus,1,1.0,valid,0,present_page_cue,0.0,Karl Kraus,1,1.0,valid,5ae2c6bf554299492dc91c6c
+"Guangzhou, China",1,1.0,valid,0,present_page_cue,0.0,"Guangzhou, China",1,1.0,valid,5ae2c8b05542992decbdcd9d
+Rebirth,1,1.0,valid,0,present_page_cue,0.0,Rebirth,1,1.0,valid,5ae35b6b5542990afbd1e116
+The Captain Matchbox Whoopee Band,1,1.0,valid,0,present_page_cue,0.0,The Captain Matchbox Whoopee Band,1,1.0,valid,5ae39e9c5542990afbd1e195
+thriller film,0,0.6666666666666666,valid,1,present_page_cue,0.33333333333333337,Thriller,1,1.0,valid,5ae3fd595542995dadf24292
+"Executive Search, Board Consulting and Leadership Strategy Services",0,0.6666666666666666,valid,0,present_page_cue,0.0,"Executive Search, Board Consulting and Leadership Strategy Services",0,0.6666666666666666,valid,5ae4890a5542995ad6573d60
+Black Panther Party,0,0.4,valid,0,present_page_cue,0.0,Black Panther Party,0,0.4,valid,5ae4a91d5542995ad6573e09
+Collins,0,0.5,valid,0,present_page_cue,0.0,Collins,0,0.5,valid,5ae528e655429908b632652c
+"2,099",1,1.0,valid,0,present_page_cue,0.0,"2,099",1,1.0,valid,5ae56a0d5542990ba0bbb29c
+Pasek and Paul,1,1.0,valid,0,present_page_cue,0.0,Pasek and Paul,1,1.0,valid,5ae5a4e5554299546bf82f01
+Ti Lung,0,0.0,valid,0,present_page_cue,0.0,Ti Lung,0,0.0,valid,5ae6179b5542992663a4f25b
+1918,1,1.0,valid,0,present_page_cue,0.0,1918,1,1.0,valid,5ae70369554299572ea54683
+Al Capone,0,0.4,valid,0,present_page_cue,0.0,Al Capone,0,0.4,valid,5ae71bee554299572ea546ea
+1856,1,1.0,valid,0,present_page_cue,0.0,1856,1,1.0,valid,5ae73c00554299572ea5478a
+Computech,1,1.0,valid,0,present_page_cue,0.0,Computech,1,1.0,valid,5ae762985542995703ce8c04

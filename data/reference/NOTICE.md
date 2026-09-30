@@ -1,0 +1,5 @@
+# Reference data and scorer
+
+`hotpot_evaluate_v1.py` is an unchanged reference copy from the HotpotQA authors' [official repository](https://github.com/hotpotqa/hotpot), downloaded from [this source](https://raw.githubusercontent.com/hotpotqa/hotpot/master/hotpot_evaluate_v1.py). Its SHA256 and access provenance are recorded in `outputs/preparation.json`. It is used for differential tests of answer normalization, EM and F1. Code license: Apache 2.0; the official license is included as `LICENSE.hotpot.txt`.
+
+HotpotQA dataset: Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William W. Cohen, Ruslan Salakhutdinov and Christopher D. Manning, *HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering* (EMNLP 2018). See the [project](https://hotpotqa.github.io/) and [paper](https://aclanthology.org/D18-1259/). Dataset license: CC BY-SA 4.0. The manifests contain excerpts with original sentence strings and annotations preserved, plus experiment metadata. The repository records the pinned Hugging Face mirror, download hashes and schema conversion in `outputs/preparation.json`.

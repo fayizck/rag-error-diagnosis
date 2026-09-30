@@ -1,0 +1,101 @@
+{
+  "qa_flag_policy": "These are independent source-text checks, not silent edits to the human workbook. Treat the three flags as sensitivity exclusions for a strict unambiguous-failure count unless adjudicated.",
+  "qa_flags": {
+    "5a808f96554299485f598655": "Question asks for an event; 'First Balkan War' may be a defensible answer although the gold specifies women accompanying husbands in that war.",
+    "5a84bc5b5542991dd0999dc3": "Question asks for a vizier after the 17-year vizier, but the gold Ibrium is described in the supplied text as his predecessor.",
+    "5a8c5be0554299653c1aa04b": "Question omits 'in Europe'; supplied text calls Pedro Calomino the inventor and Law Adam the first European user."
+  },
+  "study1": {
+    "condition_00_to_11_response_changes": 19,
+    "condition_00_to_11_status_transitions": {
+      "ambiguous -> ambiguous": 4,
+      "correct -> correct": 36,
+      "incorrect -> ambiguous": 1,
+      "incorrect -> correct": 4,
+      "incorrect -> incorrect": 15,
+      "partially_correct -> partially_correct": 4
+    },
+    "official_em_correct_by_condition": {
+      "00": 2,
+      "01": 4,
+      "10": 3,
+      "11": 5
+    },
+    "selected_questions": 64,
+    "selection": "Post-hoc lexical-review sample, not a random sample of all 200 questions",
+    "semantic_status_by_condition": {
+      "00": {
+        "ambiguous": 4,
+        "correct": 36,
+        "incorrect": 20,
+        "partially_correct": 4
+      },
+      "01": {
+        "ambiguous": 5,
+        "correct": 39,
+        "incorrect": 16,
+        "partially_correct": 4
+      },
+      "10": {
+        "ambiguous": 5,
+        "correct": 37,
+        "incorrect": 16,
+        "partially_correct": 6
+      },
+      "11": {
+        "ambiguous": 5,
+        "correct": 40,
+        "incorrect": 15,
+        "partially_correct": 4
+      }
+    }
+  },
+  "study1_review_sha256": "590d528c252a15a3613503bbb80065fb8bf23b7caf86c92a24bf6cc1470de793",
+  "study2": {
+    "audited_cases": 48,
+    "context_sufficiency": {
+      "insufficient": 3,
+      "sufficient": 45
+    },
+    "incorrect_sufficient_review_labels": [
+      "5a83eaae55429933447460b4",
+      "5a8f608d5542992414482a94",
+      "5a890b895542995153361278",
+      "5a84bc5b5542991dd0999dc3",
+      "5a808f96554299485f598655",
+      "5a8c5be0554299653c1aa04b"
+    ],
+    "incorrect_sufficient_valid_review_labels": [
+      "5a83eaae55429933447460b4",
+      "5a8f608d5542992414482a94",
+      "5a84bc5b5542991dd0999dc3",
+      "5a808f96554299485f598655",
+      "5a8c5be0554299653c1aa04b"
+    ],
+    "question_gold_validity": {
+      "questionable": 3,
+      "valid": 45
+    },
+    "reviewer_initials": [
+      "K. Bansal"
+    ],
+    "rows_with_notes": 0,
+    "selection": "All official-EM failures among 106 questions with both annotated support titles in Study 2 top ten",
+    "semantic_status": {
+      "correct": 38,
+      "incorrect": 9,
+      "partially_correct": 1
+    },
+    "status_by_sufficiency": {
+      "correct | sufficient": 38,
+      "incorrect | insufficient": 3,
+      "incorrect | sufficient": 6,
+      "partially_correct | sufficient": 1
+    },
+    "strict_unambiguous_candidates_after_qa_flags": [
+      "5a83eaae55429933447460b4",
+      "5a8f608d5542992414482a94"
+    ]
+  },
+  "study2_review_sha256": "728b365919c03adc48997986758be5fdc60469d99666ba663c02ea1b4e5f2b44"
+}

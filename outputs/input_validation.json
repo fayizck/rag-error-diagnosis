@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-09-29T20:46:57.519089+00:00",
+  "invariants_per_item": 16,
+  "items": 210,
+  "main_planned": 800,
+  "passed": true,
+  "pilot_planned": 40,
+  "preparation_sha256": "0d2ab2aca8f2997be8c6b557f2a124e3289faa65f43072d55f0c2281e5214f0b",
+  "prompts": 840
+}

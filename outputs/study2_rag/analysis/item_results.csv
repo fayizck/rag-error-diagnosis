@@ -1,0 +1,201 @@
+item_id,retrieval_category,support_a_rank,support_b_rank,rank_bin,rag_answer,rag_em,rag_f1,failure_relationship,study1_00_answer,study1_00_em,study1_00_f1,study1_11_answer,study1_11_em,study1_11_f1
+5ae524415542992663a4f121,partial,1,200,not_complete_top10,Helsinki,0,0.6666666666666666,lexically_unmatched,Helsinki,0,0.6666666666666666,Helsinki,0,0.6666666666666666
+5adf076f5542992d7e9f9277,complete,1,2,both_top2,John Faso,1,1.0,official_em_correct,John Faso,1,1.0,John Faso,1,1.0
+5a8f608d5542992414482a94,complete,1,7,both_top10_not5,Toxics Release Inventory,0,0.0,lexically_unmatched,publicly available database,0,0.8,publicly available database,0,0.8
+5a87ab905542996e4f3088c1,partial,1,35,not_complete_top10,Not provided in the context,0,0.0,lexically_unmatched,"4,000 capacity (3,677 seated)",0,0.6666666666666666,"4,000 capacity (3,677 seated)",0,0.6666666666666666
+5ae3a1aa5542994393b9e72d,partial,4,11,not_complete_top10,"""Lucky""",1,1.0,official_em_correct,"""Lucky""",1,1.0,"""Lucky""",1,1.0
+5a84524a554299123d8c2203,complete,1,2,both_top2,Five,0,0.6666666666666666,lexically_unmatched,Five books,1,1.0,Five books,1,1.0
+5a7e32905542991319bc943b,failed,14,17,not_complete_top10,"I am sorry, but the provided text does not contain information about Jennifer Jones or her event at the Sochi Winter Olympics.",0,0.0,lexically_unmatched,Curling,1,1.0,Curling,1,1.0
+5a75a4135542992d0ec05fcd,partial,1,46,not_complete_top10,Not specified in context,0,0.0,lexically_unmatched,"Rockhill Furnace, Pennsylvania",1,1.0,"Rockhill Furnace, Pennsylvania",1,1.0
+5adf51e05542995534e8c78a,partial,75,1,not_complete_top10,Not mentioned in the context,0,0.0,lexically_unmatched,The provided context does not mention a specific name for Diego Tonetto's Italian passport.,0,0.13333333333333333,Not mentioned,0,0.0
+5a7fa2ad5542994857a76792,partial,1895,1,not_complete_top10,Not mentioned in the retrieved context.,0,0.0,lexically_unmatched,"The Golden Ratio: The Story of Phi, the World's Most Astonishing Number",0,0.8750000000000001,"""The Golden Ratio: The Story of Phi, the World's Most Astonishing Number""",0,0.8750000000000001
+5abd12bb55429933744ab703,complete,1,2,both_top2,Mount Everest,1,1.0,official_em_correct,Mount Everest,1,1.0,Mount Everest,1,1.0
+5abcd77755429965836004ce,complete,2,1,both_top2,The Australian coast,1,1.0,official_em_correct,Australian coast,1,1.0,the Australian coast,1,1.0
+5ab520dd5542996a3a96a02c,complete,3,1,both_top5_not2,New York State,0,0.8,lexically_unmatched,New York,1,1.0,New York State,0,0.8
+5a86681c5542991e77181644,failed,68,730,not_complete_top10,Grandmaster (GM),0,0.0,lexically_unmatched,Professional boxer,0,0.8,Professional boxer,0,0.8
+5ae6179b5542992663a4f25b,complete,1,3,both_top5_not2,Ti Lung,0,0.0,lexically_unmatched,Ti Lung,0,0.0,Ti Lung,0,0.0
+5ae07c6255429924de1b70d6,complete,2,1,both_top2,65 mph,1,1.0,official_em_correct,65 mph,1,1.0,65 mph,1,1.0
+5ae531695542990ba0bbb1fb,partial,618,1,not_complete_top10,1945,1,1.0,official_em_correct,1945,1,1.0,1945,1,1.0
+5a7cdd1c554299683c1c63a8,partial,1,33,not_complete_top10,The Legend of Sleepy Hollow,1,1.0,official_em_correct,The Legend of Sleepy Hollow,1,1.0,The Legend of Sleepy Hollow,1,1.0
+5a7f354b5542992e7d278c8c,partial,92,1,not_complete_top10,New Kids on the Block,0,0.0,lexically_unmatched,Mudvayne,1,1.0,Mudvayne,1,1.0
+5a89f58f5542992e4fca84af,partial,22,1,not_complete_top10,[No information provided in the context],0,0.0,lexically_unmatched,Borwick Joint station,0,0.6666666666666666,Borwick Joint station,0,0.6666666666666666
+5ae2c6bf554299492dc91c6c,complete,3,1,both_top5_not2,Karl Kraus,1,1.0,official_em_correct,Karl Kraus,1,1.0,Karl Kraus,1,1.0
+5a75f0ea5542994ccc91866c,partial,77,1,not_complete_top10,A41/A5117,0,0.0,lexically_unmatched,A41 road,0,0.6666666666666666,A41,1,1.0
+5a81b7205542990a1d231e79,partial,31,1,not_complete_top10,Not provided in the context.,0,0.0,lexically_unmatched,1825 to 1854,0,0.8571428571428571,From 1825 to 1854,1,1.0
+5a7a47be5542994f819ef1b2,complete,1,3,both_top5_not2,Dâmbovița River,1,1.0,official_em_correct,Dâmbovița River,1,1.0,Dâmbovița River,1,1.0
+5a849cc95542997175ce1efa,partial,1,67,not_complete_top10,"Based on the provided context, there is no mention of the city in which Brian Mannal convened.",0,0.0,lexically_unmatched,Boston,1,1.0,Boston,1,1.0
+5a8c5be0554299653c1aa04b,complete,1,2,both_top2,Pedro Calomino,0,0.0,lexically_unmatched,Pedro Calomino,0,0.0,Pedro Calomino,0,0.0
+5ae1465855429920d5234373,complete,10,1,both_top10_not5,New York Yankees,1,1.0,official_em_correct,New York Yankees,1,1.0,New York Yankees,1,1.0
+5ae0036a55429942ec259bdf,complete,1,3,both_top5_not2,Army and Navy,0,0.8,lexically_unmatched,Army and Navy,0,0.8,Army and Navy,0,0.8
+5add559e5542992ae4cec511,complete,2,1,both_top2,Apple Lisa,1,1.0,official_em_correct,Apple Lisa,1,1.0,the Apple Lisa,1,1.0
+5a84e61b5542997b5ce3ff86,complete,3,1,both_top5_not2,The 500th episode of the series,0,0.5714285714285715,lexically_unmatched,It was the 500th episode overall of the series.,0,0.4,It was the 500th episode overall of the series.,0,0.4
+5a72e4375542992359bc31bf,partial,13,1,not_complete_top10,Bob Day,1,1.0,official_em_correct,Bob Day,1,1.0,Bob Day,1,1.0
+5a7723ce55429966f1a36c9f,complete,1,2,both_top2,Gareth Barry,1,1.0,official_em_correct,Gareth Barry,1,1.0,Gareth Barry,1,1.0
+5ac0805f5542992a796ded29,partial,1,99,not_complete_top10,"Based on the provided context, there is no mention of the author of ""Albert Speer: His Battle with Truth"" being convicted.",0,0.0,lexically_unmatched,"The provided context does not contain information about when the author of ""Albert Speer: His Battle with Truth"" was convicted.",0,0.0,"The provided context does not contain information about when Gitta Sereny (the author of ""Albert Speer: His Battle with Truth"") was convicted.",0,0.0
+5a90605d5542995651fb514d,partial,10,20,not_complete_top10,Illa J and Frank Nitt,0,0.16666666666666666,lexically_unmatched,"Royce da 5'9"" and Eminem",0,0.8333333333333333,"Royce da 5'9"" and Eminem",0,0.8333333333333333
+5a80b322554299485f5986c8,partial,41,1,not_complete_top10,278th episode,1,1.0,official_em_correct,278th episode,1,1.0,The 278th episode of the series overall,0,0.5714285714285715
+5ae71bee554299572ea546ea,complete,6,1,both_top10_not5,Al Capone,0,0.4,lexically_unmatched,Johnny Torrio,0,0.0,Johnny Torrio,0,0.0
+5ae5e62455429929b0807a07,partial,47,1,not_complete_top10,Italian,1,1.0,official_em_correct,Italian,1,1.0,Italian,1,1.0
+5a8d8e4f5542994ba4e3dca7,complete,2,1,both_top2,"Based on the provided context, there is no mention of the distance from the NG postcode area to Gamston, Rushcliffe (Gamston itself is noted as being part of the NG2 postcode and 3 miles from Nottingham, but the distance of the overall NG postcode area from Gamston is not provided).",0,0.04255319148936171,lexically_unmatched,3 mi,0,0.8,3 mi,0,0.8
+5ab4ec2755429942dd415fa6,complete,1,2,both_top2,CIT Group,0,0.8,lexically_unmatched,CIT Group,0,0.8,CIT Group,0,0.8
+5a81fa59554299676cceb1b0,complete,1,2,both_top2,Acting,0,0.0,lexically_unmatched,Actor,1,1.0,Acting,0,0.0
+5adc3a7055429947ff173913,complete,1,4,both_top5_not2,French,1,1.0,official_em_correct,Francophone and French (from Martinique),0,0.33333333333333337,Francophone and French (from Martinique),0,0.33333333333333337
+5adecc7755429975fa854f9d,complete,6,1,both_top10_not5,Jeremy Hammond,1,1.0,official_em_correct,Jeremy Hammond,1,1.0,Jeremy Hammond,1,1.0
+5a8fdd9c55429916514e73de,complete,2,1,both_top2,2006,1,1.0,official_em_correct,2006,1,1.0,2006,1,1.0
+5ae629215542995703ce8b34,partial,1,276,not_complete_top10,Adelaide,1,1.0,official_em_correct,Adelaide,1,1.0,Adelaide,1,1.0
+5abcffc2554299700f9d7951,partial,28,3,not_complete_top10,Crosby's Crab Company,0,0.0,lexically_unmatched,Citgo,1,1.0,Citgo,1,1.0
+5ac273455542992f1f2b38d4,partial,1,22,not_complete_top10,Young earth creationism and intelligent design,0,0.5,lexically_unmatched,Young earth creationism and intelligent design,0,0.5,Young earth creationism and intelligent design,0,0.5
+5a7736bc554299373536021b,partial,1,13,not_complete_top10,Antonio Vivaldi,0,0.8,lexically_unmatched,Antonio Vivaldi,0,0.8,Antonio Vivaldi,0,0.8
+5ae3fd595542995dadf24292,complete,1,2,both_top2,Thriller,1,1.0,official_em_correct,Thriller,1,1.0,Thriller film,0,0.6666666666666666
+5ae762985542995703ce8c04,complete,1,2,both_top2,Computech,1,1.0,official_em_correct,Computech,1,1.0,Computech,1,1.0
+5a8b8f5b55429949d91db5e1,partial,1,14,not_complete_top10,Not mentioned in context,0,0.0,lexically_unmatched,Not mentioned in the context.,0,0.0,videogames,0,0.0
+5ae3606b5542991a06ce99a8,partial,862,1,not_complete_top10,Amyotrophic lateral sclerosis (ALS) / Lou Gehrig's Disease,0,0.6,lexically_unmatched,amyotrophic lateral sclerosis (ALS),0,0.0,amyotrophic lateral sclerosis (ALS),0,0.0
+5a7cb94f554299683c1c6353,partial,45,1,not_complete_top10,Not provided,0,0.0,lexically_unmatched,The Hungry,1,1.0,The Hungry,1,1.0
+5ab7d6ec5542995dae37e9b4,partial,1,7925,not_complete_top10,1834 (Ayala Corporation),0,0.0,lexically_unmatched,1988,1,1.0,1988,1,1.0
+5a75e33855429976ec32bc74,partial,58,1,not_complete_top10,Phoenix Suns,1,1.0,official_em_correct,Phoenix Suns,1,1.0,Phoenix Suns,1,1.0
+5ae083e855429924de1b70fb,complete,10,1,both_top10_not5,25 points,1,1.0,official_em_correct,25 points,1,1.0,25 points,1,1.0
+5a90b1a15542990a984936ab,partial,140,1,not_complete_top10,Netherlands,1,1.0,official_em_correct,Netherlands,1,1.0,Netherlands,1,1.0
+5ae0345855429924de1b705f,partial,113,1,not_complete_top10,Las Vegas Sands Corporation,0,0.75,lexically_unmatched,Las Vegas Sands,0,0.8571428571428571,Las Vegas Sands,0,0.8571428571428571
+5ae17f1e5542990adbacf7a6,partial,21,6,not_complete_top10,The provided context does not contain information about the city of Gualeguaychu.,0,0.0,lexically_unmatched,Province of Entre Ríos,0,0.0,province of Entre Ríos,0,0.0
+5a7264ed5542990c210a411a,partial,108,1,not_complete_top10,living space,0,0.0,lexically_unmatched,Blood and soil,1,1.0,Blood and soil,1,1.0
+5a74be0b5542996c70cfadc8,complete,2,3,both_top5_not2,Universal Pictures,1,1.0,official_em_correct,Universal Pictures,1,1.0,Universal Pictures,1,1.0
+5abd83775542993062266cb7,complete,10,2,both_top10_not5,The Snowman,1,1.0,official_em_correct,The Snowman,1,1.0,The Snowman,1,1.0
+5abdb4a755429965af743df0,partial,1,26,not_complete_top10,Germany,0,0.0,lexically_unmatched,Czech Republic,1,1.0,Czech Republic,1,1.0
+5a7dbb295542990b8f503a4b,complete,1,2,both_top2,Pavel Datsyuk,0,0.8,lexically_unmatched,Pavel Datsyuk,0,0.8,Pavel Datsyuk,0,0.8
+5add67705542992ae4cec54f,complete,9,4,both_top10_not5,Rafael Dos Anjos,0,0.8571428571428571,lexically_unmatched,Rafael Dos Anjos,0,0.8571428571428571,Rafael Dos Anjos,0,0.8571428571428571
+5a7af4cd55429931da12c9a6,partial,1,117,not_complete_top10,Pakistan,0,0.6666666666666666,lexically_unmatched,Karachi,0,0.6666666666666666,Karachi,0,0.6666666666666666
+5ac23f9555429951e9e684db,complete,1,4,both_top5_not2,Seldom Jackson,1,1.0,official_em_correct,Seldom Jackson,1,1.0,Seldom Jackson,1,1.0
+5adf5e285542992d7e9f9323,complete,3,1,both_top5_not2,"June 4, 1931",1,1.0,official_em_correct,"June 4, 1931",1,1.0,"June 4, 1931",1,1.0
+5ae0132d55429925eb1afc00,complete,7,1,both_top10_not5,George Washington Bridge,1,1.0,official_em_correct,George Washington Bridge,1,1.0,George Washington Bridge,1,1.0
+5ab98608554299131ca42362,partial,1,28414,not_complete_top10,1926 Paris,1,1.0,official_em_correct,1926 Paris,1,1.0,1926 Paris,1,1.0
+5abdce1b5542993062266cfe,partial,4,66,not_complete_top10,Hennepin County,1,1.0,official_em_correct,Hennepin County,1,1.0,Hennepin County,1,1.0
+5a83eaae55429933447460b4,complete,2,1,both_top2,"A federal popular initiative (""against mass immigration"")",0,0.0,lexically_unmatched,"The Swiss federal popular initiative ""against mass immigration""",0,0.0,"The Swiss federal popular initiative ""against mass immigration""",0,0.0
+5a8e8d665542995085b3744e,partial,38542,1,not_complete_top10,Lotus Shan,0,0.0,lexically_unmatched,Park Yong-gyu,1,1.0,Park Yong-gyu,1,1.0
+5a77d5b855429949eeb29f77,complete,2,1,both_top2,Spanish,1,1.0,official_em_correct,Spanish,1,1.0,Spanish,1,1.0
+5ab1dcab5542993be8fa985e,partial,5223,1,not_complete_top10,Joy,0,0.0,lexically_unmatched,Marie,1,1.0,Marie,1,1.0
+5ae1fd995542997283cd2313,partial,7,18,not_complete_top10,Lowestoft,1,1.0,official_em_correct,Lowestoft,1,1.0,Lowestoft,1,1.0
+5ab69f9a554299710c8d1ef8,complete,6,1,both_top10_not5,Adrian Conan Doyle and John Dickson Carr,0,0.36363636363636365,lexically_unmatched,Adrian Conan Doyle and John Dickson Carr,0,0.36363636363636365,Adrian Conan Doyle and John Dickson Carr,0,0.36363636363636365
+5ac2cb09554299657fa29066,complete,1,5,both_top5_not2,Longhorns,0,0.33333333333333337,lexically_unmatched,Longhorns,0,0.33333333333333337,Longhorns,0,0.33333333333333337
+5a7b1a4a55429927d897bf3b,complete,1,2,both_top2,Canada's first train robbery,1,1.0,official_em_correct,Canada's first train robbery,1,1.0,Canada's first train robbery,1,1.0
+5ab5ed505542997d4ad1f255,complete,1,3,both_top5_not2,The Beatles,1,1.0,official_em_correct,The Beatles,1,1.0,The Beatles,1,1.0
+5abcff225542993a06baf9ea,partial,1,18,not_complete_top10,Tulane University men's basketball team,0,0.0,lexically_unmatched,Cleveland Cavaliers,1,1.0,Cleveland Cavaliers,1,1.0
+5ab4355555429942dd415ee3,complete,1,2,both_top2,Traumnovelle (Dream Story),1,1.0,official_em_correct,"""Traumnovelle"" (""Dream Story"")",1,1.0,"""Traumnovelle"" (""Dream Story"")",1,1.0
+5ab73eaf5542992aa3b8c7ef,partial,250,1,not_complete_top10,Chimpanzee,0,0.0,lexically_unmatched,Chimpanzee,0,0.0,Chimpanzee,0,0.0
+5a88cc8f55429938390d3fc5,complete,1,3,both_top5_not2,Sissy Spacek,1,1.0,official_em_correct,Sissy Spacek,1,1.0,Sissy Spacek,1,1.0
+5abaee845542996606241696,partial,51,1,not_complete_top10,[Information not provided in the context],0,0.0,lexically_unmatched,Maryland,1,1.0,Maryland,1,1.0
+5a73583455429901807dafcf,complete,1,6,both_top10_not5,World Championship Wrestling (WCW),0,0.8571428571428571,lexically_unmatched,World Championship Wrestling (WCW),0,0.8571428571428571,World Championship Wrestling (WCW),0,0.8571428571428571
+5ab960d6554299743d22eb21,partial,198,1,not_complete_top10,Leatherheads,1,1.0,official_em_correct,Leatherheads,1,1.0,Leatherheads,1,1.0
+5a84bc5b5542991dd0999dc3,complete,2,1,both_top2,Ibbi-Sipish (or Ibbi-Zikir),0,0.0,lexically_unmatched,Duwan-Asar,0,0.0,Duenis,0,0.0
+5a8e08ab5542995085b37393,partial,1,506,not_complete_top10,Not mentioned in the context,0,0.0,lexically_unmatched,Eleanor of Aquitaine,0,0.8571428571428571,Duchess Eleanor of Aquitaine,1,1.0
+5a8ba0855542995d1e6f1427,partial,13,3,not_complete_top10,"Based on the provided context, there is no mention of a writer for *The Kenyon Review* winning a Pulitzer Prize.",0,0.0,lexically_unmatched,"1947, 1958, and 1979",0,0.4,"1947, 1958, and 1979",0,0.4
+5ae2e0fd55429928c4239524,partial,1,780,not_complete_top10,Ronald Reagan,0,0.0,lexically_unmatched,Ronald Reagan,0,0.0,Ronald Reagan,0,0.0
+5a8313a755429954d2e2ec06,complete,1,2,both_top2,Naomi Wallace,1,1.0,official_em_correct,Naomi Wallace,1,1.0,Naomi Wallace,1,1.0
+5ab624b855429953192ad26d,complete,3,1,both_top5_not2,jurisdiction,1,1.0,official_em_correct,jurisdiction,1,1.0,jurisdiction,1,1.0
+5ae53fcb55429960a22e029e,partial,2,4199,not_complete_top10,Not provided in the context,0,0.0,lexically_unmatched,"Seth MacFarlane, Mike Barker, and Matt Weitzman",0,0.4444444444444445,"Seth MacFarlane, Mike Barker, and Matt Weitzman",0,0.4444444444444445
+5a7b782455429927d897bfd7,partial,2,17,not_complete_top10,Cecily Strong,1,1.0,official_em_correct,Cecily Strong,1,1.0,Cecily Strong,1,1.0
+5ae56a0d5542990ba0bbb29c,complete,4,8,both_top10_not5,"2,099",1,1.0,official_em_correct,"2,099",1,1.0,"2,099",1,1.0
+5add57e55542992ae4cec516,complete,1,2,both_top2,England,1,1.0,official_em_correct,England,1,1.0,England,1,1.0
+5adcfba05542990d50227d83,partial,13262,1,not_complete_top10,"Based on the provided text, there is no mention of the era during which the genre of Theatre of the Absurd was founded.",0,0.0,lexically_unmatched,post–World War II era,0,0.8571428571428571,post–World War II era,0,0.8571428571428571
+5abdcaea55429965af743e4e,complete,3,1,both_top5_not2,Top winner,0,0.0,lexically_unmatched,Top winner,0,0.0,Being a top winner (or top winners),0,0.2857142857142857
+5a808f96554299485f598655,complete,2,1,both_top2,The First Balkan War,0,0.5,lexically_unmatched,The First Balkan War,0,0.5,The Slavic women accompanying their husbands in the First Balkan War,1,1.0
+5a8dee2455429917b4a5bce1,partial,1,14,not_complete_top10,"Hair, Prince of the City, Once Upon a Time in America, The Late Shift",0,0.0,lexically_unmatched,Milk,0,0.0,"Milk, Pineapple Express, Rise of the Planet of the Apes, Spring Breakers, Oz the Great and Powerful, This Is the End, The Disaster Artist, Spider-Man, The Little Prince, Sausage Party",0,0.15384615384615385
+5ac19bf55542994ab5c67d97,complete,2,1,both_top2,Kansas Joe McCoy and Memphis Minnie,0,0.9090909090909091,lexically_unmatched,Kansas Joe McCoy and Memphis Minnie,0,0.9090909090909091,Kansas Joe McCoy and Memphis Minnie,0,0.9090909090909091
+5a88a1bb5542997e5c09a64c,partial,1,1284,not_complete_top10,Christopher Nolan,1,1.0,official_em_correct,Christopher Nolan,1,1.0,Christopher Nolan,1,1.0
+5adfde09554299025d62a369,complete,2,1,both_top2,single-season touchdown reception record (23 in 2007),0,0.6,lexically_unmatched,NFL single-season touchdown reception record (23 in 2007),0,0.5454545454545454,NFL single-season touchdown reception record (23),0,0.6666666666666666
+5a713f3c5542994082a3e6eb,failed,21,12,not_complete_top10,Lakeland station,0,0.5,lexically_unmatched,"Miami-Dade County, Florida, on the border of Miami and Hialeah",0,0.0,"Miami-Dade County, Florida (on the border of Miami and Hialeah)",0,0.0
+5a81ea115542995ce29dcc78,partial,1,929,not_complete_top10,"Based on the provided context, there is no mention of the record company that released the album in the UK.",0,0.0,lexically_unmatched,Parlophone Records,1,1.0,Parlophone Records,1,1.0
+5ae1925a554299492dc91b48,complete,5,1,both_top5_not2,Lady Charlotte Elliot,0,0.4,lexically_unmatched,Lady Charlotte Elliot,0,0.4,Lady Charlotte Elliot,0,0.4
+5ac02880554299012d1db5c0,partial,1,29,not_complete_top10,[Retrieved passages do not contain this information],0,0.0,lexically_unmatched,1905,1,1.0,1905,1,1.0
+5a74a8fa55429929fddd8497,complete,10,3,both_top10_not5,Bill Dudman,0,0.6666666666666666,lexically_unmatched,Bill Dudman,0,0.6666666666666666,Bill Dudman,0,0.6666666666666666
+5a7f84225542994857a76756,partial,20,1,not_complete_top10,Gerald B. and Beverley Tonkens House,0,0.0,lexically_unmatched,Amberley Village,1,1.0,Amberley Village,1,1.0
+5a8baf635542996e8ac889c6,partial,1,1315,not_complete_top10,Harare,1,1.0,official_em_correct,Harare,1,1.0,Harare,1,1.0
+5a7502345542993748c89795,complete,6,5,both_top10_not5,Chad,1,1.0,official_em_correct,Chad,1,1.0,Chad,1,1.0
+5ae4890a5542995ad6573d60,complete,1,3,both_top5_not2,"Executive Search, Board Consulting and Leadership Strategy Services",0,0.6666666666666666,lexically_unmatched,"Executive Search, Board Consulting and Leadership Strategy Services",0,0.6666666666666666,"Executive Search, Board Consulting and Leadership Strategy Services",0,0.6666666666666666
+5ab6c47e55429954757d3368,complete,1,2,both_top2,University of Oxford,0,0.8571428571428571,lexically_unmatched,University of Oxford,0,0.8571428571428571,University of Oxford,0,0.8571428571428571
+5a7cb9985542990527d55514,partial,1807,1,not_complete_top10,Des O'Connor,1,1.0,official_em_correct,Des O'Connor,1,1.0,Des O'Connor,1,1.0
+5ae39e9c5542990afbd1e195,complete,6,1,both_top10_not5,The Captain Matchbox Whoopee Band,1,1.0,official_em_correct,The Captain Matchbox Whoopee Band,1,1.0,The Captain Matchbox Whoopee Band,1,1.0
+5ab8723c55429934fafe6dbc,partial,3,5655,not_complete_top10,Not provided in context,0,0.0,lexically_unmatched,Houston Rockets,1,1.0,Houston Rockets,1,1.0
+5a7cd8da55429909bec76845,complete,1,2,both_top2,The Ones Who Walk Away from Omelas,1,1.0,official_em_correct,"""The Ones Who Walk Away from Omelas""",1,1.0,The Ones Who Walk Away from Omelas,1,1.0
+5abf1e825542997ec76fd3cb,complete,2,1,both_top2,2004,1,1.0,official_em_correct,2004,1,1.0,2004,1,1.0
+5a80abd15542996402f6a5e0,partial,1543,1,not_complete_top10,"Wong Jing, Jiang Zhuoyuan, Lam Chi-chung, Zhang Yibai, Xie Dongshen, Zhang Yimou, or Steven S. DeKnight",0,0.0,lexically_unmatched,"Wong Jing, Jiang Zhuoyuan, Zhang Yimou, Lam Chi-chung, Zhang Yibai, Xie Dongshen, or Jordan Vogt-Roberts",0,0.0,"Ding Sheng, Wong Jing, Jiang Zhuoyuan, Zhang Yimou, Lam Chi-chung, Zhang Yibai, Xie Dongshen, or Steven S. DeKnight",0,0.19999999999999998
+5a7a5ec855429941d65f25e4,complete,1,5,both_top5_not2,Endorheic Sistan Basin,0,0.8,lexically_unmatched,Sistan Basin,1,1.0,Sistan Basin,1,1.0
+5a79e1275542990198eaefe7,partial,1,12,not_complete_top10,Not provided in the context,0,0.0,lexically_unmatched,Art Deco,0,0.8,Art Deco,0,0.8
+5a85e5345542991dd0999ebb,complete,1,7,both_top10_not5,Hydraulic clutch,1,1.0,official_em_correct,clutch,0,0.6666666666666666,Clutch,0,0.6666666666666666
+5ab88c075542991b5579efbe,complete,1,3,both_top5_not2,Mr. Tumnus,1,1.0,official_em_correct,Mr. Tumnus,1,1.0,Mr. Tumnus,1,1.0
+5ae70369554299572ea54683,complete,9,3,both_top10_not5,1918,1,1.0,official_em_correct,1918,1,1.0,1918,1,1.0
+5a7c6753554299683c1c62f9,partial,14,2,not_complete_top10,Girls' Generation,1,1.0,official_em_correct,Girls' Generation,1,1.0,Girls' Generation,1,1.0
+5abd0296554299114383a1d1,partial,687,1,not_complete_top10,1876,1,1.0,official_em_correct,1876,1,1.0,1876,1,1.0
+5ac2efd65542990b17b154c7,complete,5,9,both_top10_not5,Bigg Boss 10,0,0.0,lexically_unmatched,Bigg Boss 10,0,0.0,Bigg Boss 10,0,0.0
+5ac113e2554299294b21909a,partial,25,1,not_complete_top10,Not mentioned in context,0,0.0,lexically_unmatched,"Frank Wildhorn, Leslie Bricusse and Steve Cuden",0,0.7272727272727273,"Frank Wildhorn, Leslie Bricusse and Steve Cuden",0,0.7272727272727273
+5ab7268b5542992aa3b8c7b1,complete,2,1,both_top2,Ang Lee,1,1.0,official_em_correct,Ang Lee,1,1.0,Ang Lee,1,1.0
+5abdc18555429965af743e2b,complete,4,2,both_top5_not2,The Hertz Corporation,0,0.6666666666666666,lexically_unmatched,The Hertz Corporation,0,0.6666666666666666,The Hertz Corporation,0,0.6666666666666666
+5ab5cd0d554299488d4d9a30,complete,2,1,both_top2,The State of Nevada,1,1.0,official_em_correct,The State of Nevada,1,1.0,The State of Nevada,1,1.0
+5a81ee385542995ce29dcc88,partial,64,1,not_complete_top10,Lawrence of Arabia,1,1.0,official_em_correct,Lawrence of Arabia,1,1.0,Lawrence of Arabia,1,1.0
+5a73354f5542991f9a20c687,partial,1,11,not_complete_top10,Henry Moseley,1,1.0,official_em_correct,Henry Moseley,1,1.0,Henry Moseley,1,1.0
+5ae5a4e5554299546bf82f01,complete,2,1,both_top2,Pasek and Paul,1,1.0,official_em_correct,Pasek and Paul,1,1.0,Pasek and Paul,1,1.0
+5ab808b85542991d3222380d,partial,28,1,not_complete_top10,"Hawaiian ""creation""",0,0.0,lexically_unmatched,religious authority of Hawai'i,0,0.0,religious authority of Hawai'i,0,0.0
+5ac2768d5542990b17b153a8,partial,1,1278,not_complete_top10,1787,0,0.0,lexically_unmatched,18 or 19 November 1786,0,0.7499999999999999,18 or 19 November 1786,0,0.7499999999999999
+5adcc3ed5542994d58a2f6c4,partial,1,77,not_complete_top10,"Based on the provided context, there is no mention of Carlene LeFevre and Rich LeFevre forming any group in Brooklyn, New York City.",0,0.07407407407407407,lexically_unmatched,"The provided context does not mention Carlene LeFevre and Rich LeFevre forming any group in Brooklyn, New York City.",0,0.0,"The ""First Family of Competitive Eating""",1,1.0
+5ae4a91d5542995ad6573e09,complete,1,4,both_top5_not2,Black Panther Party,0,0.4,lexically_unmatched,Black Panther Party,0,0.4,Black Panther Party,0,0.4
+5ab2a8b655429929539467ab,complete,2,1,both_top2,"Nikhil Banerjee (or Ravi Shankar, Annapurna Devi)",0,0.4444444444444445,lexically_unmatched,Nikhil Banerjee,1,1.0,"Nikhil Banerjee (or Annapurna Devi, or Ravi Shankar)",0,0.4
+5a74d7685542996c70cfae0a,partial,11,3,not_complete_top10,Richard Hauptmann,1,1.0,official_em_correct,Richard Hauptmann,1,1.0,Richard Hauptmann,1,1.0
+5a8dff3f5542995085b37370,partial,1,35,not_complete_top10,theoretical particle physics and quantum field theory,0,0.22222222222222224,lexically_unmatched,quantum mechanics,1,1.0,Quantum mechanics,1,1.0
+5a890b895542995153361278,complete,2,7,both_top10_not5,Fridtjof Nansen,0,0.6666666666666666,lexically_unmatched,Fridtjof Nansen,0,0.6666666666666666,Fridtjof Nansen,0,0.6666666666666666
+5a752fb75542993748c897df,partial,1,13,not_complete_top10,Erreway,1,1.0,official_em_correct,Erreway,1,1.0,Erreway,1,1.0
+5ab6e848554299710c8d1faa,complete,6,1,both_top10_not5,"August 19, 1968",1,1.0,official_em_correct,"August 19, 1968",1,1.0,"August 19, 1968",1,1.0
+5ae690b055429908198fa622,partial,1,165,not_complete_top10,Cheshire,0,0.0,lexically_unmatched,Ellesmere Port,1,1.0,Ellesmere Port,1,1.0
+5ae358c05542990afbd1e10f,partial,1,123,not_complete_top10,Romas Kalanta,1,1.0,official_em_correct,Romas Kalanta's self-immolation and the prohibition to take part in his funeral by officials,0,0.13333333333333336,Romas Kalanta's self-immolation and the officials' prohibition to take part in his funeral,0,0.14285714285714285
+5ab3dbd8554299233954ffd6,complete,1,2,both_top2,"Not mentioned in the text (the text states he is ""set to reprise the role"").",0,0.0,lexically_unmatched,Not specified in the context,0,0.0,"The provided context does not state the exact date when Peter Capaldi played the role of Mr. Curry in ""Paddington 2"", only that the film is set to release on 10 November 2017 and that he was set to reprise the role in the sequel.",0,0.05
+5ae849cc5542997ec2727798,partial,1,21,not_complete_top10,"Michigan, Minnesota, Wisconsin, Illinois, Indiana, Ohio, Pennsylvania, and New York",0,0.3636363636363636,lexically_unmatched,"Minnesota, Wisconsin, and Michigan",0,0.5,"Minnesota, Wisconsin, and Michigan",0,0.5
+5ae35b6b5542990afbd1e116,complete,3,4,both_top5_not2,Rebirth,1,1.0,official_em_correct,Rebirth,1,1.0,Rebirth,1,1.0
+5a839f985542996488c2e47d,complete,2,1,both_top2,"photographs, film and television",1,1.0,official_em_correct,"photographs, film and television",1,1.0,"photographs, film and television",1,1.0
+5a8bc03d5542996e8ac88a0b,partial,1,695,not_complete_top10,LBK,0,0.0,lexically_unmatched,LBK,0,0.0,LBK,0,0.0
+5adccdab5542994d58a2f6db,complete,2,3,both_top5_not2,2009,1,1.0,official_em_correct,6 July 2009,0,0.5,6 July 2009,0,0.5
+5ae4a2b25542995ad6573de0,partial,1,18,not_complete_top10,Quantrill's Raiders,0,0.0,lexically_unmatched,Quantrill's Raiders,0,0.0,Quantrill's Raiders,0,0.0
+5ab90a2055429916710eb0ea,complete,10,1,both_top10_not5,"Philadelphia, Pennsylvania",0,0.6666666666666666,lexically_unmatched,"Philadelphia, Pennsylvania",0,0.6666666666666666,"Philadelphia, Pennsylvania",0,0.6666666666666666
+5a82e25555429954d2e2ebbf,partial,1,16,not_complete_top10,Patricia Veryan,0,0.0,lexically_unmatched,Eva Ibbotson,1,1.0,Eva Ibbotson,1,1.0
+5ab7e3c45542995dae37e9db,partial,11,1,not_complete_top10,Illinois,0,0.5,lexically_unmatched,"near North Chicago, in Lake County, Illinois",0,0.6,"near North Chicago, in Lake County, Illinois",0,0.6
+5abd27ba5542993062266ba7,complete,1,4,both_top5_not2,Banjo,0,0.6666666666666666,lexically_unmatched,Banjo,0,0.6666666666666666,banjo,0,0.6666666666666666
+5adc861c5542994d58a2f62c,complete,9,1,both_top10_not5,"Comodoro Arturo Merino Benítez International Airport, Santiago, Chile",0,0.8571428571428571,lexically_unmatched,"Comodoro Arturo Merino Benítez International Airport, Santiago, Chile",0,0.8571428571428571,Comodoro Arturo Merino Benítez International Airport,1,1.0
+5abc8d75554299700f9d7900,complete,1,4,both_top5_not2,Leo Varadkar,1,1.0,official_em_correct,Leo Varadkar,1,1.0,Leo Varadkar,1,1.0
+5abb207d5542992ccd8e7f1d,complete,2,1,both_top2,Geneva,0,0.6666666666666666,lexically_unmatched,Geneva,0,0.6666666666666666,Geneva,0,0.6666666666666666
+5a8325b35542990548d0b18f,complete,1,2,both_top2,Kathy Sullivan,0,0.0,lexically_unmatched,Kathy Sullivan,0,0.0,Kathy Sullivan,0,0.0
+5abcf2b4554299700f9d7937,complete,1,8,both_top10_not5,Giotto,1,1.0,official_em_correct,"Giotto, Spinello Aretino, and Agnolo Gaddi",0,0.2857142857142857,Giotto,1,1.0
+5a8a09765542992d82986e67,partial,1,24,not_complete_top10,FC Bayern Munich,1,1.0,official_em_correct,FC Bayern Munich,1,1.0,FC Bayern Munich,1,1.0
+5ab4774d5542991751b4d781,complete,2,1,both_top2,Three-card brag,0,0.1818181818181818,lexically_unmatched,Brag,0,0.19999999999999998,Brag,0,0.19999999999999998
+5a84f5195542994c784dda9d,partial,455,1,not_complete_top10,Not provided in the retrieved context.,0,0.0,lexically_unmatched,Israeli Ambassador to the United States,0,0.5714285714285715,Israeli Ambassador to the United States,0,0.5714285714285715
+5ade7feb5542992fa25da799,complete,1,3,both_top5_not2,Wake Island,0,0.5,lexically_unmatched,Wake Atoll,1,1.0,Wake Atoll,1,1.0
+5ac299b155429967731025ad,complete,2,1,both_top2,Atomic bombings of Hiroshima and Nagasaki,0,0.6666666666666666,lexically_unmatched,atomic bombings of Hiroshima and Nagasaki,0,0.6666666666666666,Atomic bombings of Hiroshima and Nagasaki,0,0.6666666666666666
+5adef5fb5542993a75d263be,complete,3,5,both_top5_not2,Lambic,1,1.0,official_em_correct,Lambic,1,1.0,Lambic,1,1.0
+5abaeda95542992ccd8e7e5d,complete,1,2,both_top2,Twin Pines/Lone Pine Mall,1,1.0,official_em_correct,Twin Pines/Lone Pine Mall,1,1.0,Twin Pines/Lone Pine Mall,1,1.0
+5addfdf65542992200553bd2,partial,344,1,not_complete_top10,Vyto Ruginis,1,1.0,official_em_correct,Vyto Ruginis,1,1.0,Vyto Ruginis,1,1.0
+5ab95a63554299743d22eb06,partial,1,13,not_complete_top10,Royler Gracie,1,1.0,official_em_correct,Royler Gracie,1,1.0,Royler Gracie,1,1.0
+5a807f6a5542992bc0c4a737,complete,1,3,both_top5_not2,1943,1,1.0,official_em_correct,1943,1,1.0,1943,1,1.0
+5ae129115542990adbacf722,complete,2,1,both_top2,Francis McPeake,1,1.0,official_em_correct,Francis McPeake,1,1.0,Francis McPeake,1,1.0
+5ae528e655429908b632652c,complete,4,1,both_top5_not2,Collins,0,0.5,lexically_unmatched,Collins,0,0.5,Collins,0,0.5
+5abcd44655429959677d6af1,complete,2,1,both_top2,753,0,0.5,lexically_unmatched,The provided context does not contain the population of Rockingham County.,0,0.16666666666666666,753,0,0.5
+5ae237ac554299492dc91be1,partial,61,2,not_complete_top10,"The provided text does not contain the 2010 population of Goshen, New Hampshire, the town where The Stelljes House is located.",0,0.0,lexically_unmatched,810,1,1.0,810,1,1.0
+5ae414d855429970de88d8ec,partial,1,153,not_complete_top10,Not mentioned in context,0,0.0,lexically_unmatched,1903,1,1.0,1903,1,1.0
+5ac4e593554299076e296e37,complete,2,1,both_top2,Guitar,0,0.6666666666666666,lexically_unmatched,Rhythm guitar,1,1.0,Rhythm guitar,1,1.0
+5a8f0a01554299458435d539,complete,1,2,both_top2,"Indianapolis, Indiana",0,0.6666666666666666,lexically_unmatched,"Indianapolis, Indiana",0,0.6666666666666666,"Indianapolis, Indiana",0,0.6666666666666666
+5abe87cb5542993f32c2a156,partial,1,18,not_complete_top10,National Lottery,0,0.0,lexically_unmatched,National Lottery,0,0.0,National Lottery,0,0.0
+5ae206c45542994d89d5b311,complete,1,2,both_top2,"""The Heirs"", ""Descendants of the Sun"", and ""Fight for My Way""",0,0.1818181818181818,lexically_unmatched,"""The Heirs"", ""Descendants of the Sun"", and ""Fight for My Way""",0,0.1818181818181818,"""The Heirs"", ""Descendants of the Sun"", and ""Fight for My Way""",0,0.1818181818181818
+5a7b3f4d5542992d025e67bb,complete,2,1,both_top2,Pasek & Paul,1,1.0,official_em_correct,Benj Pasek and Justin Paul (Pasek and Paul),0,0.4,Benj Pasek and Justin Paul (Pasek and Paul),0,0.4
+5a8ac87d55429970aeb7031d,complete,1,2,both_top2,Jeff Van Gundy,0,0.5714285714285715,lexically_unmatched,Jeff Van Gundy,0,0.5714285714285715,Jeff Van Gundy,0,0.5714285714285715
+5a8a429955429930ff3c0d34,partial,1,1823,not_complete_top10,Universal Pictures,0,0.0,lexically_unmatched,1912,1,1.0,1912,1,1.0
+5ab2f85b55429929539468dc,complete,1,6,both_top10_not5,8th and 16th centuries,1,1.0,official_em_correct,8th and 16th centuries,1,1.0,8th and 16th centuries,1,1.0
+5ae8027d5542993210984031,partial,12,1,not_complete_top10,Monty Stratton,0,0.6666666666666666,lexically_unmatched,Monty Stratton,0,0.6666666666666666,Monty Stratton,0,0.6666666666666666
+5ae2c8b05542992decbdcd9d,complete,2,1,both_top2,"Guangzhou, China",1,1.0,official_em_correct,"Guangzhou, China",1,1.0,"Guangzhou, China",1,1.0
+5a8de7c65542995085b37353,partial,125,1,not_complete_top10,General Motors,1,1.0,official_em_correct,General Motors (GM),0,0.8,General Motors,1,1.0
+5ade99ad554299728e26c75d,complete,2,1,both_top2,two or three acts,1,1.0,official_em_correct,two or three acts,1,1.0,Two or three acts,1,1.0
+5a8dce155542994ba4e3dd24,partial,1,24770,not_complete_top10,United States Marine Corps,0,0.6666666666666666,lexically_unmatched,United States Marine Corps,0,0.6666666666666666,United States Marine Corps,0,0.6666666666666666
+5adec4695542992fa25da83a,complete,1,3,both_top5_not2,Dziga Vertov,1,1.0,official_em_correct,Dziga Vertov,1,1.0,Dziga Vertov,1,1.0
+5ab913205542991b5579f0e0,complete,3,1,both_top5_not2,Kentucky Fried Chicken (KFC),1,1.0,official_em_correct,Kentucky Fried Chicken (KFC),1,1.0,Kentucky Fried Chicken (KFC),1,1.0
+5a81a4335542990a1d231e38,partial,1,559,not_complete_top10,Clarence Nash and Tony Anselmo,0,0.5714285714285715,lexically_unmatched,Clarence Nash,1,1.0,Clarence Nash (and Tony Anselmo),0,0.5714285714285715
+5a7c00a55542996dd594b87e,partial,1,16364,not_complete_top10,"Based on the provided context, there is no mention of the sea on which the San Jose Secondary Educational Center is located.",0,0.0,lexically_unmatched,Mediterranean,1,1.0,Mediterranean,1,1.0
+5a7747e15542994aec3b7266,complete,2,3,both_top5_not2,Lonestar,1,1.0,official_em_correct,Lonestar,1,1.0,Lonestar,1,1.0
+5ac42a64554299076e296d7b,complete,2,3,both_top5_not2,1927,1,1.0,official_em_correct,1927,1,1.0,1927,1,1.0
+5ae1f2d4554299234fd04358,complete,8,10,both_top10_not5,Rio Ferdinand,0,0.8,lexically_unmatched,Rio Ferdinand,0,0.8,Rio Ferdinand,0,0.8
+5ac50bca55429924173fb57f,partial,29,1,not_complete_top10,Not provided in the retrieved context.,0,0.0,lexically_unmatched,Boston University and Harvard University,0,0.5714285714285715,Boston University and Harvard University,0,0.5714285714285715
+5ae73c00554299572ea5478a,complete,1,3,both_top5_not2,1856,1,1.0,official_em_correct,1856,1,1.0,1856,1,1.0
+5adc2e3d554299438c868d6b,partial,50,1,not_complete_top10,The provided context does not contain the founding date of the club Monterrey.,0,0.0,lexically_unmatched,28 June 1945,1,1.0,28 June 1945,1,1.0

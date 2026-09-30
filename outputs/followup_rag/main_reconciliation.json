@@ -1,0 +1,15 @@
+{
+  "bad_prompt_or_freeze_count": 0,
+  "committed": 394,
+  "estimated_cost_usd": 0.1786834,
+  "expected": 394,
+  "fingerprint": "ece937bcd1b2a9beed25aa30c653995f89c55dc2a568d47800258eef6643f1e3",
+  "finish_events": 394,
+  "freeze_sha256": "875423e20e22942cb78630ce836d2aee6ab52c9b72edb2ed0fde80b5a12ba632",
+  "split": "main",
+  "status_counts": {
+    "valid": 394
+  },
+  "technical_pass": true,
+  "terminal_events": 394
+}

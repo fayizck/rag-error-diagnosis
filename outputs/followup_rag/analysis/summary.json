@@ -1,0 +1,51 @@
+{
+  "experiments": {
+    "missing_page": {
+      "control_em": 0.3076923076923077,
+      "control_mean_f1": 0.38192357628447854,
+      "em_difference": 0.21978021978021978,
+      "em_difference_bootstrap_95ci": [
+        0.12087912087912088,
+        0.31868131868131866
+      ],
+      "exact_discordant_pair_p_two_sided": 8.797645568847656e-05,
+      "f1_difference": 0.3411035288854838,
+      "f1_difference_bootstrap_95ci": [
+        0.2480008643542478,
+        0.43944294357828195
+      ],
+      "harms": 3,
+      "holm_adjusted_p": 0.00017595291137695312,
+      "intervention_em": 0.5274725274725275,
+      "intervention_mean_f1": 0.7230271051699623,
+      "n_questions": 91,
+      "repairs": 23,
+      "unchanged": 65
+    },
+    "present_page_cue": {
+      "control_em": 0.5566037735849056,
+      "control_mean_f1": 0.7763538348444009,
+      "em_difference": -0.02830188679245283,
+      "em_difference_bootstrap_95ci": [
+        -0.07547169811320754,
+        0.018867924528301886
+      ],
+      "exact_discordant_pair_p_two_sided": 0.453125,
+      "f1_difference": -0.016806882844618693,
+      "f1_difference_bootstrap_95ci": [
+        -0.04397751095864304,
+        0.009397206567017887
+      ],
+      "harms": 5,
+      "holm_adjusted_p": 0.453125,
+      "intervention_em": 0.5283018867924528,
+      "intervention_mean_f1": 0.7595469519997822,
+      "n_questions": 106,
+      "repairs": 2,
+      "unchanged": 99
+    }
+  },
+  "freeze_sha256": "875423e20e22942cb78630ce836d2aee6ab52c9b72edb2ed0fde80b5a12ba632",
+  "main_observations": 394,
+  "study2_baseline_is_descriptive_only": true
+}

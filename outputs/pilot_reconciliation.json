@@ -1,0 +1,112 @@
+{
+  "all_planned_accounted": true,
+  "attempts": 40,
+  "checked_at": "2026-09-29T20:58:29.875208+00:00",
+  "committed": 40,
+  "complete_valid_questions": 10,
+  "duplicate_attempt_events": 0,
+  "duplicate_commits": 0,
+  "duplicate_scientific_ids": 0,
+  "inflight_attempts": 0,
+  "integrity_errors": [],
+  "integrity_passed": true,
+  "latency_seconds": {
+    "max": 0.9253575000329874,
+    "mean": 0.666946842748439,
+    "median": 0.6415506665071007
+  },
+  "logical_outputs_sha256": "57b03b533668abb4832e263957da907de3f9c60a5f7138845ac963880067ba5b",
+  "missing_scientific_ids": [],
+  "per_condition": {
+    "00": {
+      "committed": 10,
+      "planned": 10,
+      "valid": 10
+    },
+    "01": {
+      "committed": 10,
+      "planned": 10,
+      "valid": 10
+    },
+    "10": {
+      "committed": 10,
+      "planned": 10,
+      "valid": 10
+    },
+    "11": {
+      "committed": 10,
+      "planned": 10,
+      "valid": 10
+    }
+  },
+  "per_item": {
+    "5a75675d5542992d0ec05f87": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a769b115542993569682c51": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7a8d2355429941d65f26a1": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7b1c0a55429931da12c9c9": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7b48b15542995eb53be8eb": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7d6a2d5542991319bc93c6": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a7effeb5542994959419aa0": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a807e6f5542995d8a8ddf80": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5a8ad8ed5542992d82986fa3": {
+      "committed": 4,
+      "valid": 4
+    },
+    "5ae5b301554299546bf82f2d": {
+      "committed": 4,
+      "valid": 4
+    }
+  },
+  "planned": 40,
+  "requested_model": "gemini-3.5-flash-lite",
+  "response_integrity": {
+    "empty": 0,
+    "malformed": 0,
+    "refused": 0,
+    "truncated": 0,
+    "valid": 40
+  },
+  "returned_model_versions": [
+    "gemini-3.5-flash-lite"
+  ],
+  "safe_to_freeze_technical": true,
+  "split": "pilot",
+  "successful_calls": 40,
+  "technical_failure_attempts": 0,
+  "technical_retries": 0,
+  "terminal_failures": [],
+  "token_usage_totals": {
+    "candidatesTokenCount": 168,
+    "promptTokenCount": 76880,
+    "totalTokenCount": 77048
+  },
+  "total_tokens": 77048,
+  "unattempted": [],
+  "unexpected_regeneration": false,
+  "unexpected_scientific_ids": [],
+  "valid_outputs": 40
+}
